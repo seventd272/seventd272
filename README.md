@@ -2,31 +2,20 @@
 
 <!DOCTYPE html>
 <html 
-  class="is-page-products_view data-customer"
+  class="is-page-index_index data-customer"
  lang="vi" dir="ltr">
 <head>
-<title>Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng</title>
+<title>Chiếm Tài Mobile - Phụ kiện Xiaomi chính hãng, giá tốt</title>
 
 <base href="http://chiemtaimobile.vn/" />
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8" data-ca-mode="" />
 <meta name="viewport" content="initial-scale=1.0, width=device-width" />
+<meta name="description" content="CHIẾM TÀI Mobile chuyên cung cấp các loại linh kiện, phụ kiện điện thoại cho dân kỹ thuật và các cửa hàng sửa chữa điện thoại di động tại TPHCM." />
 
-<meta name="description" content="Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W có kích thước nhỏ gọn, có công suất cao lên đến 18W, hỗ trợ công nghệ sạc nhanh QC 3.0. Cốc sạc sẽ là một lựa chọn tuyệt vời để sạc cho thiết bị di động của bạn. Hiện sản phẩm đang được phân phối t" />
-
-
-<meta name="keywords" content="Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng, cốc sạc nhanh 18w, cốc sạc anker, cốc sạc chính hãng" />
+<meta name="keywords" content="linh kiện điện thoại" />
 <meta name="format-detection" content="telephone=no">
 
-            <meta property="og:title" content="Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng" />
-            <meta property="og:url" content="http://chiemtaimobile.vn/coc-sac-nhanh-qc-3.0-anker-a2013-iq-powerport-1-cong-18w-chinh-hang.html" />
-            <meta property="og:image" content="http://chiemtaimobile.vn/images/detailed/16/thumbanker.jpg" />
-            <meta property="og:image:width" content="400" />
-            <meta property="og:image:height" content="400" />
-            <meta property="og:site_name" content="Chiếm Tài Mobile" />
-            <meta property="og:type" content="activity" />
-    
-                                    
-                                        <link rel="canonical" href="http://chiemtaimobile.vn/coc-sac-nhanh-qc-3.0-anker-a2013-iq-powerport-1-cong-18w-chinh-hang.html" />
+    <link rel="canonical" href="http://chiemtaimobile.vn/" />
 
 
 
@@ -140,7 +129,7 @@
         <div class="ty-logo-container">
     
             <a href="http://chiemtaimobile.vn/" title="Chiếm Tài Mobile">
-        <img class="ty-pict  ty-logo-container__image   cm-image" id="det_img_701522519"  src="http://chiemtaimobile.vn/images/logos/2/logo.png"  width="216" height="58" alt="Chiếm Tài Mobile" title="Chiếm Tài Mobile"/>
+        <img class="ty-pict  ty-logo-container__image   cm-image" id="det_img_1004445945"  src="http://chiemtaimobile.vn/images/logos/2/logo.png"  width="216" height="58" alt="Chiếm Tài Mobile" title="Chiếm Tài Mobile"/>
 
 
     
@@ -322,7 +311,7 @@
                       
                                 </li>
                                                     
-                            <li class="ty-menu__item cm-menu-item-responsive ty-menu__item-active">
+                            <li class="ty-menu__item cm-menu-item-responsive">
                                                 <a class="ty-menu__item-toggle visible-phone cm-responsive-menu-toggle">
                               <i class="ty-menu__icon-open ty-icon-down-open"></i>
                               <i class="ty-menu__icon-hide ty-icon-up-open"></i>
@@ -757,7 +746,7 @@
       
       <div class="logo-sp visible-phone">
         <a href="http://chiemtaimobile.vn/" title="Chiếm Tài Mobile">
-          <img class="ty-pict  ty-logo-container__image   cm-image" id="det_img_590375814"  src="http://chiemtaimobile.vn/images/logos/2/logo_4ogm-1f.png"  data-width="216" data-height="58" alt="Chiếm Tài Mobile" title="Chiếm Tài Mobile"/>
+          <img class="ty-pict  ty-logo-container__image   cm-image" id="det_img_991806488"  src="http://chiemtaimobile.vn/images/logos/2/logo_4ogm-1f.png"  data-width="216" data-height="58" alt="Chiếm Tài Mobile" title="Chiếm Tài Mobile"/>
 
 
         </a>
@@ -800,619 +789,2428 @@
 </div>
 
 <div class="tygh-content clearfix">
-    <div class="container-fluid  content-grid">
+    <div class="container-fluid  content-grid main-full-sp">
                                         
-            <div class="row-fluid">                        <div class="span16  breadcrumbs-grid" >
-                                    <div id="breadcrumbs_10">
-
-    <div class="ty-breadcrumbs clearfix">
-        <a href="http://chiemtaimobile.vn/" class="ty-breadcrumbs__a">Trang chủ</a><span class="ty-breadcrumbs__slash">/</span><a href="http://chiemtaimobile.vn/phu-kien-dien-thoai/" class="ty-breadcrumbs__a">Phụ kiện điện thoại</a><span class="ty-breadcrumbs__slash">/</span><span class="ty-breadcrumbs__current"><bdi>Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng (không hộp)</bdi></span>
-    </div>
-<!--breadcrumbs_10--></div>
-                            </div>
-        </div>                                        
-            <div class="row-fluid">                        <div class="span16  main-content-grid" >
-                                    <!-- Inline script moved to the bottom of the page -->
-
-<div class="ty-product-block ty-product-detail">
-    <div class="ty-product-block__wrapper clearfix">
-    <div itemscope itemtype="http://schema.org/Product">
-    <meta itemprop="sku" content="6868041316846" />
-    <meta itemprop="name" content="Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng (không hộp)" />
-    <meta itemprop="description" content="Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W (không hộp)&amp;nbsp;có kích thước nhỏ gọn, có công suất cao lên đến 18W, hỗ trợ công nghệ sạc nhanh QC 3.0. Cốc sạc sẽ là một lựa chọn tuyệt vời để sạc cho thiết bị di động của bạn.
+            <div class="row-fluid">                        <div class="span16  full-width" >
+                                    <div class="row-fluid">                        <div class="span16  " >
+                                    <div class="homepage-banners ">
+        
+    <div id="banner_slider_311" class="banners owl-carousel">
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://chiemtaimobile.vn/khuyen-mai" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_436291188"  src="http://chiemtaimobile.vn/images/promo/19/banner-web.png"  alt="" title=""/>
 
 
-
-Ưu điểm của cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W
-
-Thiết kế nhỏ gọn, chắc chắn
-
-Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W có kích thước nhỏ gọn được hoàn thiện tinh tế với các góc cạnh được bo tròn. Phần thân làm từ chất liệu nhựa ABS cao cấp, chống cháy có khả năng chịu được nhiệt độ cao. Bề mặt của cốc sạc được thiết kế tinh tế với kết hợp giữa nhựa bóng ở phần thân và nhựa nhám ở hai đầu tạo cảm giác chắc tay cho người sử dụng khi cầm nắm.
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://chiemtaimobile.vn/?subcats=Y&amp;pcode_from_q=N&amp;pshort=N&amp;pfull=N&amp;pname=Y&amp;pkeywords=N&amp;search_performed=Y&amp;q=xay&amp;dispatch=products.search&amp;security_hash=ecc2d3f051c29e4e4345e29154dc6c95" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1502084075"  src="http://chiemtaimobile.vn/images/promo/19/may-xay-sinh-to.jpg"  alt="" title=""/>
 
 
-
-Thiết kế nhỏ gọn của sản phẩm cùng với khả năng tương thích với điện quốc tế (100V – 240V) sẽ là một người bạn đồng hành lý tưởng trong những chuyến du lịch. Cùng với đó là thiết kế chân sạc dạng 2 chấu dẹp tiện lợi có khả năng thu gọn khi không sử dụng. Cạnh cổng USB là một đèn LED nhỏ, với ánh sáng xanh biểu thị tình trạng làm việc của thiết bị, giúp người dùng dễ dàng theo dõi.
-
-Hỗ trợ sạc nhanh Quick Charge 3.0
-
-Cốc sạc nhanh QC 3.0 Anker A2013 được hỗ trợ công nghệ sạc nhanh Quick Charge 3.0 đến từ Qualcomm với công suất lên đến 18W giúp tiết kiệm thời gian sạc cho người sử dụng. Đây là công nghệ sạc nhanh phổ biến trên các thiết bị di động và cho hiệu quả sạc tốt nhất hiện nay. Nó sẽ giúp tăng tốc độ sạc gấp 4 lần so với chuẩn sạc thông thường và hiệu quả cao hơn 38% so với sạc nhanh QC 2.0, đồng thời triển khai thêm nhiều bước để bảo vệ tuổi thọ của pin. Ngoài ra, Quick Charge 3.0 còn giảm mức độ tiêu tán năng lượng do nhiệt tới 45% so với Quick Charge 2.0.
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://www.chiemtaimobile.vn/?subcats=Y&amp;status=A&amp;pshort=N&amp;pfull=N&amp;pname=Y&amp;match=&amp;pkeywords=N&amp;search_performed=Y&amp;q=h%C3%BAt+b%E1%BB%A5i&amp;dispatch=products.search" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_20059432"  src="http://chiemtaimobile.vn/images/promo/16/hut-bui.png"  alt="" title=""/>
 
 
-
-Sản phẩm liên quan:
-
-
-	Cáp sạc USB type C to USB type C 2.0 Anker PowerLine A8182 (dài 1.8m)
-	Cốc sạc USB type C Anker PowerPort A2014 30W
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://www.chiemtaimobile.vn/?subcats=Y&amp;status=A&amp;pshort=N&amp;pfull=N&amp;pname=Y&amp;match=&amp;pkeywords=N&amp;search_performed=Y&amp;q=PANDORA&amp;dispatch=products.search" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_1568582784"  src="http://chiemtaimobile.vn/images/promo/16/retro-game.png"  alt="" title=""/>
 
 
-Cốc sạc Anker A2013 có khả năng tương thích với các thiết bị khác, cốc có thể tương thích với tất cả công nghệ QC 1.0, 2.0, 3.0, công nghệ độc quyền của PowerIQ&amp;nbsp;nên vừa có thể cho tốc độ nhanh vừa thích hợp với nhiều hệ điều hành khác nhau từ Ios đến Android trên nhiều thiết bị khác nhau.
-
-Hệ thống an toàn Multiprotect
-
-Hệ thống an toàn trên cốc sạc sẽ giúp phòng chống rò rỉ điện, sạc quá dòng. Bảo vệ bạn và thiết bị của bạn được an toàn. Cốc sạc của Anker đều được cấp các chứng chỉ an toàn chứng nhận (PSE và RoHS). Mọi linh kiện và bảng mạch bên trong sản phẩm đều được làm từ những vật liệu tốt nhất của ngành công nghiệp. Cốc sạc sẽ tự động ngắt nguồn nếu phát hiện thấy bất cứ điệu gì thất thường như quá dòng, đoản mạch hay bị rò rỉ, nên đây sẽ là một sản phẩm an toàn tuyệt đối cho người dùng.
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://www.chiemtaimobile.vn/?subcats=Y&amp;status=A&amp;pshort=N&amp;pfull=N&amp;pname=Y&amp;match=&amp;pkeywords=N&amp;search_performed=Y&amp;q=b%C3%ACnh&amp;dispatch=products.search" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_533524727"  src="http://chiemtaimobile.vn/images/promo/16/banner-binh-nuoc.png"  alt="" title=""/>
 
 
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://www.chiemtaimobile.vn/?subcats=Y&amp;status=A&amp;pshort=N&amp;pfull=N&amp;pname=Y&amp;match=&amp;pkeywords=N&amp;search_performed=Y&amp;q=qu%E1%BA%A1t&amp;dispatch=products.search" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_86472339"  src="http://chiemtaimobile.vn/images/promo/16/quat-xiaomi2.png"  alt="" title=""/>
 
-Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượng, rất thân thiện với môi trường khi được Bộ Năng lượng Hoa Kỳ đánh giá hiệu quả năng lượng cao (Cấp độ VI).
-" />
-            <meta itemprop="image" content="http://chiemtaimobile.vn/images/detailed/16/thumbanker.jpg" />
-    
-    <div itemprop="offers" itemscope itemtype="http://schema.org/Offer">
-        <link itemprop="url" href="http://chiemtaimobile.vn/coc-sac-nhanh-qc-3.0-anker-a2013-iq-powerport-1-cong-18w-chinh-hang.html" />
-        <link itemprop="availability" href="http://schema.org/InStock" />
-                    <meta itemprop="priceCurrency" content="VND"/>
-            <meta itemprop="price" content="200000"/>
+
+                    </a>                            </div>
+                    <div class="ty-banner__image-item">
+                                    <a class="banner__link" href="http://www.chiemtaimobile.vn/?subcats=Y&amp;status=A&amp;pshort=N&amp;pfull=N&amp;pname=Y&amp;match=&amp;pkeywords=N&amp;search_performed=Y&amp;q=imou&amp;dispatch=products.search" >                        <img class="ty-pict  ty-banner__image   cm-image" id="det_img_503435988"  src="http://chiemtaimobile.vn/images/promo/14/camera_giam_sat_imou.png"  alt="" title=""/>
+
+
+                    </a>                            </div>
             </div>
 
-    
-    
-    
-
-
-</div>
-
-                                
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-            <div class="ty-product-block__img-wrapper" style="width: 500px">
-                
-                                            <div class="ty-product-block__img cm-reload-15481" data-ca-previewer="true" id="product_images_15481_update">
-
-                                                                            
-            
-
-                            
-    
-    
-    
-<div class="ty-product-img cm-preview-wrapper" id="product_images_154815efc45d77c4bf">
-    <a id="det_img_link_154815efc45d77c4bf_16155" data-ca-image-id="preview[product_images_154815efc45d77c4bf]" class="cm-image-previewer cm-previewer ty-previewer" data-ca-image-width="400" data-ca-image-height="400" href="http://chiemtaimobile.vn/images/detailed/16/thumbanker.jpg" title=""><img class="ty-pict     cm-image" id="det_img_154815efc45d77c4bf_16155"  src="http://chiemtaimobile.vn/images/thumbnails/500/500/detailed/16/thumbanker.jpg"  alt="" title=""/><svg class="ty-pict__container" aria-hidden="true" width="500" height="500" viewBox="0 0 500 500" style="max-height: 100%; max-width: 100%; position: absolute; top: 0; left: 50%; transform: translateX(-50%); z-index: -1;"><rect fill="transparent" width="500" height="500"></rect></svg>
-<span class="ty-previewer__icon hidden-phone"></span></a>
-
-
-    </div>
-
-
-
 <!-- Inline script moved to the bottom of the page -->
-<!-- Inline script moved to the bottom of the page -->
-
-
-
-                        <!--product_images_15481_update--></div>
-                                    
-
             </div>
-            <div class="ty-product-block__left">
-                                <form action="http://chiemtaimobile.vn/" method="post" name="product_form_15481" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
-<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[15481][product_id]" value="15481" />
-
-
-                
-                                            <h1 class="ty-product-block-title" ><bdi>Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng (không hộp)</bdi></h1>
-                    
-                    
-                        
-                            <div class="brand">
-                                
-
-
                             </div>
-                        
-
-                    
-
-                
-
-
-                                                                                
-                <div class="prices-container price-wrap">
-                                            <div class="ty-product-block__price-actual">
-                                <span class="cm-reload-15481 ty-price-update" id="price_update_15481">
-        <input type="hidden" name="appearance[show_price_values]" value="1" />
-        <input type="hidden" name="appearance[show_price]" value="1" />
-                                
-                                    <span class="ty-price" id="line_discounted_price_15481">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_15481" class="ty-price-num">200.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
-                            
-
-                        <!--price_update_15481--></span>
-
-                        </div>
-                                        
-                                            <div class="ty-product-prices">
-                                        <span class="cm-reload-15481" id="old_price_update_15481">
-            
-                        
-
-        <!--old_price_update_15481--></span>
-                        
-                    
-
-                                                    
-                            <div class="clearfix btk">            <span class="cm-reload-15481" id="line_discount_update_15481">
-            <input type="hidden" name="appearance[show_price_values]" value="1" />
-            <input type="hidden" name="appearance[show_list_discount]" value="1" />
-                    <!--line_discount_update_15481--></span>
-    </div>
-                        </div>
-                                    </div>
-                
-                <div class="style-spec" style="font-weight: 600;font-size: 18px;padding:15px 5px;color: #f00;">   </div>
-
-                                <div class="ty-product-block__option">
-                                                <div class="cm-reload-15481" id="product_options_update_15481">
-        <input type="hidden" name="appearance[show_product_options]" value="1" />
-        
-                                                    
-<input type="hidden" name="appearance[details_page]" value="1" />
-    <input type="hidden" name="additional_info[info_type]" value="D" />
-    <input type="hidden" name="additional_info[is_preview]" value="" />
-    <input type="hidden" name="additional_info[get_icon]" value="1" />
-    <input type="hidden" name="additional_info[get_detailed]" value="1" />
-    <input type="hidden" name="additional_info[get_additional]" value="" />
-    <input type="hidden" name="additional_info[get_options]" value="1" />
-    <input type="hidden" name="additional_info[get_discounts]" value="1" />
-    <input type="hidden" name="additional_info[get_features]" value="" />
-    <input type="hidden" name="additional_info[get_extra]" value="" />
-    <input type="hidden" name="additional_info[get_taxed_prices]" value="1" />
-    <input type="hidden" name="additional_info[get_for_one_product]" value="1" />
-    <input type="hidden" name="additional_info[detailed_params]" value="1" />
-    <input type="hidden" name="additional_info[features_display_on]" value="C" />
-    <input type="hidden" name="additional_info[get_variation_features_variants]" value="1" />
-    <input type="hidden" name="additional_info[get_variation_info]" value="1" />
-    <input type="hidden" name="additional_info[get_variation_name]" value="1" />
-    <input type="hidden" name="additional_info[get_product_type]" value="" />
-
-
-<!-- Inline script moved to the bottom of the page -->
-
-        
-
-    <!--product_options_update_15481--></div>
-    
-                </div>
-                
-                                
-                <div class="intro-description v-1">
-                                      <p class="intro-title">Vì sao chọn Chúng tôi?</p>
-<p><i class="fa fa-check-circle"></i> Sản phẩm chính hãng 100% </p>
-<p><i class="fa fa-check-circle"></i> Bảo hành 6 tháng <a href="/chinh-sach-bao-hanh">(Xem chi tiết)</a></p>
-<p><i class="fa fa-check-circle"></i> 1 đổi 1 trong 7 ngày <a href="/chinh-sach-doi-tra-san-pham">(Xem chi tiết)</a></p>
-<p><i class="fa fa-check-circle"></i> Giao hàng tận nơi toàn quốc <a href="/huong-dan-cach-thuc-mua-hang">(COD)</p>
-<p><i class="fa fa-check-circle"></i> Free ship đơn hàng >200k nội thành TP.HCM, nhận trong ngày  <a href="/huong-dan-cach-thuc-mua-hang">(COD)</p>
-                                </div>
-                <div class="block-single blockV2 text-center"><a href="tel:19002667" title="hotline tư vấn đặt hàng 1900 2667"><img src="http://chiemtaimobile.vn/design/themes/varcom/media/images/hotline-cong-ty.png" alt="hotline"></a></div>
-                
-
-
-
-                                <div class="ty-product-block__advanced-option clearfix">
-                                                                        <div class="cm-reload-15481" id="advanced_options_update_15481">
-            
-            
-            
-<input type="hidden" name="appearance[dont_show_points]" value="" />
-    <div class="ty-reward-group product-list-field hidden">
-    <span class="ty-control-group__label">Điểm thưởng:</span>
-    <span class="ty-control-group__item" id="reward_points_15481"><bdi> điểm</bdi></span>
-</div>
-
-        <!--advanced_options_update_15481--></div>
-    
-                                    </div>
-
-                <div class="ty-product-block__sku">
-                                                    <div class="ty-control-group ty-sku-item cm-hidden-wrapper" id="sku_update_15481">
-            <input type="hidden" name="appearance[show_sku]" value="1" />
-                            <label class="ty-control-group__label" id="sku_15481">MÃ:</label>
-                        <span class="ty-control-group__item cm-reload-15481" id="product_code_15481">6868041316846<!--product_code_15481--></span>
         </div>
-    
-                </div>
-
-                                <div class="ty-product-block__field-group">
-                                        
-    <div class="cm-reload-15481 stock-wrap" id="product_amount_update_15481">
-        <input type="hidden" name="appearance[show_product_amount]" value="1" />
-                                                        <div class="ty-control-group product-list-field">
-                                                    <label class="ty-control-group__label">Sẵn có:</label>
-                                                <span class="ty-qty-in-stock ty-control-group__item" id="in_stock_info_15481">
-                                                            Còn hàng
-                                                    </span>
-                    </div>
-                                        <!--product_amount_update_15481--></div>
-
-
-
-
-                                            
-        <div class="cm-reload-15481" id="qty_update_15481">
-        <input type="hidden" name="appearance[show_qty]" value="1" />
-        <input type="hidden" name="appearance[capture_options_vs_qty]" value="" />
-                            
-                    <div class="ty-qty clearfix changer" id="qty_15481">
-                <label class="ty-control-group__label" for="qty_count_15481">Số lượng:</label>                                <div class="ty-center ty-value-changer cm-value-changer">
-                                            <a class="cm-increase ty-value-changer__increase">&#43;</a>
-                                        <input  type="text" size="5" class="ty-value-changer__input cm-amount" id="qty_count_15481" name="product_data[15481][amount]" value="1" data-ca-min-qty="1" />
-                                            <a class="cm-decrease ty-value-changer__decrease">&minus;</a>
-                                    </div>
-                            </div>
-                            <!--qty_update_15481--></div>
-    
-
-
-
-                                            
-            
-
-
-                </div>
-                
-                
-
-        
-                
-                                    
-
-                
-				
-                                <div class="ty-product-block__button clearfix">
-                    
-                                        <div class="cm-reload-15481 " id="add_to_cart_update_15481">
-<input type="hidden" name="appearance[show_add_to_cart]" value="1" />
-<input type="hidden" name="appearance[show_list_buttons]" value="1" />
-<input type="hidden" name="appearance[but_role]" value="big" />
-<input type="hidden" name="appearance[quick_view]" value="" />
-
-
-
-                    
- 
-    <button id="button_cart_15481" class="ty-btn__primary ty-btn__big ty-btn__add-to-cart cm-form-dialog-closer ty-btn" type="submit" name="dispatch[checkout.add..15481]" >Thêm vào giỏ hàng</button>
-
-
-    
-
-
-
-
-    
-
-    
-
-
-<a id="opener_call_request_15481" class="cm-dialog-opener cm-dialog-auto-size ty-btn ty-btn__secondary ty-cr-product-button" href="http://chiemtaimobile.vn/index.php?dispatch=call_requests.request&amp;product_id=15481&amp;obj_prefix=" data-ca-target-id="content_call_request_15481"  data-ca-dialog-title="Mua ngay" rel="nofollow"><span >Mua ngay</span></a>
-
-<div class="hidden" id="content_call_request_15481" title="Mua ngay">
-    
-</div>
-
-
-
-    
-    
-                            
-                                
-        
- 
-    <a  class="ty-btn ty-btn__tertiary ty-btn-icon ty-add-to-compare cm-ajax cm-ajax-full-render text-button " href="http://chiemtaimobile.vn/index.php?dispatch=product_features.add_product&amp;product_id=15481&amp;redirect_url=index.php%3Fdispatch%3Dproducts.view%26product_id%3D15481" rel="nofollow" data-ca-target-id="comparison_list,account_info*" title="Thêm vào danh sách so sánh"><i class="ty-icon-chart-bar"></i></a>
-
-
-
-
-
-<!--add_to_cart_update_15481--></div>
-
-
-                                        
-                </div>
-                
-                                <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-
-
-                
-                
-                <div class="hidden-desktop clearfix">
-                                    
-                    <div class="ty-product-block__tinh_nang">
-                      <h3 class="product-box-title"><span>THÔNG SỐ</span></h3>
-                      <table border="1" cellpadding="1" cellspacing="1" style="width: 390px;">
-	<tbody>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; width:148pt; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap" width="197"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Thương hiệu</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-left:none; width:195pt; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap" width="260"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Anker</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Model</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;A2013</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Màu sắc</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Màu đen</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Chất liệu</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Nhựa ABS</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kích thước</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;56x28x56mm</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Điện áp đầu vào</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;AC 100-240 V ~ 0.7 A 50-60 Hz</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Điện áp đầu ra</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;5V-3A, 9V - 2A, 12V - 1.5A</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Công nghệ sạc nhanh</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Quick Charge 3.0</span></span></span></span></span></span></td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-                                          </div>
-                                    
-                                    
-                </div>
-                
-                                
-
-                    
-                                
-            </div>
-        
-    
-
-    </div>
-    
-    <div class="row-fluid">
-      <div class="ja-pro-left span10">
-      
-                
-              
-
-
-                                        
-
-<!-- Inline script moved to the bottom of the page -->
-<div class="ty-tabs cm-j-tabs clearfix cm-j-tabs-disable-convertation">
-    <ul class="ty-tabs__list" >
-                                                        <li id="description" class="ty-tabs__item cm-js active"><a class="ty-tabs__a" >Mô tả</a></li>
-                                                                                        </ul>
-</div>
-
-<div class="cm-tabs-content ty-tabs__content clearfix" id="tabs_content">
-                            
-            
-                                        
-            <div id="content_description" class="ty-wysiwyg-content content-description">
-                                                    
-    <div ><p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><strong>Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W (không hộp)</strong>&nbsp;có kích thước nhỏ gọn, có công suất cao lên đến 18W, hỗ trợ công nghệ sạc nhanh QC 3.0. Cốc sạc sẽ là một lựa chọn tuyệt vời để sạc cho thiết bị di động của bạn.</span></span></p>
-
-<p style="text-align: center;"><a href="https://lh3.googleusercontent.com/pw/ACtC-3dkJ9_xzPnbD7auyHeI2hBeudYTV53DjtXcthIAiVvx96fS5P-W_CQpEEY7uD1nfXzYxKv-kmdi0ENyngNOzZXP8WNXYelNpL_hyL2kOmWqLADE574rx8Ihrhh2pio9uAmWXWOgagUivpg_9RvciCd6pA=w800" target="_blank"><img alt="" src="https://lh3.googleusercontent.com/pw/ACtC-3dkJ9_xzPnbD7auyHeI2hBeudYTV53DjtXcthIAiVvx96fS5P-W_CQpEEY7uD1nfXzYxKv-kmdi0ENyngNOzZXP8WNXYelNpL_hyL2kOmWqLADE574rx8Ihrhh2pio9uAmWXWOgagUivpg_9RvciCd6pA=w800" style="width: 650px; height: 616px;" /></a></p>
-
-<h1 style="text-align: justify;"><strong><span style="font-size:24px;">Ưu điểm của cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W</span></strong></h1>
-
-<h2 style="text-align: justify;"><strong><span style="font-size:22px;">Thiết kế nhỏ gọn, chắc chắn</span></strong></h2>
-
-<p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><em>Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W </em>có kích thước nhỏ gọn được hoàn thiện tinh tế với các góc cạnh được bo tròn. Phần thân làm từ chất liệu<span style="color:#FF8C00;"> nhựa ABS</span> cao cấp, chống cháy có khả năng chịu được nhiệt độ cao. Bề mặt của cốc sạc được thiết kế tinh tế với kết hợp giữa nhựa bóng ở phần thân và nhựa nhám ở hai đầu tạo cảm giác chắc tay cho người sử dụng khi cầm nắm.</span></span></p>
-
-<p style="text-align: center;"><a href="https://lh3.googleusercontent.com/pw/ACtC-3epFY885r9Ys5m7TWOvneIu_znGD4YVRkqpfyQcTfOsnNRScTBIHFYOBgeC6U37NcVhkLvut3ovRNDMzxiBrab-8mN6O3_skRVDTWqv19dpEQl8Q5l9jehhWeKH4x2alpMeuC3YeutK5heVCtyex9hdVQ=w800" target="_blank"><img alt="" src="https://lh3.googleusercontent.com/pw/ACtC-3epFY885r9Ys5m7TWOvneIu_znGD4YVRkqpfyQcTfOsnNRScTBIHFYOBgeC6U37NcVhkLvut3ovRNDMzxiBrab-8mN6O3_skRVDTWqv19dpEQl8Q5l9jehhWeKH4x2alpMeuC3YeutK5heVCtyex9hdVQ=w800" style="width: 650px; height: 605px;" /></a></p>
-
-<p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">Thiết kế nhỏ gọn của sản phẩm cùng với khả năng tương thích với điện quốc tế (<span style="color:#FF8C00;">100V – 240V</span>) sẽ là một người bạn đồng hành lý tưởng trong những chuyến du lịch. Cùng với đó là thiết kế chân sạc dạng 2 chấu dẹp tiện lợi có khả năng thu gọn khi không sử dụng. Cạnh cổng USB là một đèn LED nhỏ, với ánh sáng xanh biểu thị tình trạng làm việc của thiết bị, giúp người dùng dễ dàng theo dõi.</span></span></p>
-
-<h2 style="text-align: justify;"><strong><span style="font-size:22px;">Hỗ trợ sạc nhanh Quick Charge 3.0</span></strong></h2>
-
-<p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><strong>Cốc sạc nhanh QC 3.0 Anker A2013</strong> được hỗ trợ công nghệ sạc nhanh<span style="color:#FF8C00;"> Quick Charge 3.0</span> đến từ Qualcomm với công suất lên đến <span style="color:#FF8C00;">18W </span>giúp tiết kiệm thời gian sạc cho người sử dụng. Đây là công nghệ sạc nhanh phổ biến trên các thiết bị di động và cho hiệu quả sạc tốt nhất hiện nay. Nó sẽ giúp tăng tốc độ sạc gấp <span style="color:#FF8C00;">4 lần</span> so với chuẩn sạc thông thường và hiệu quả cao hơn <span style="color:#FF8C00;">38%</span> so với sạc nhanh QC 2.0, đồng thời triển khai thêm nhiều bước để bảo vệ tuổi thọ của pin. Ngoài ra, <a href="http://www.chiemtaimobile.vn/tin-cong-nghe/chi-tiet-ve-nhung-chuan-sac-nhanh-pho-bien-tren-thiet-bi-di-dong-hien-nay/" target="_blank">Quick Charge 3.0</a> còn giảm mức độ tiêu tán năng lượng do nhiệt tới <span style="color:#FF8C00;">45%</span> so với Quick Charge 2.0.</span></span></p>
-
-<p style="text-align: center;"><a href="https://lh3.googleusercontent.com/pw/ACtC-3ehKKYPxBCJ2bTTAEnMFevvsGdJrBFSjAQAbiXFDol9hMKGxWVPU6DXUX4BUgSlThNA41UnRH5bGHJUp_OzWu1iB_TIbTlTGAyptwgV1zCsv1U1iZVIHVHjx8h6bKfSGx1RrwSMFzKJyQ-qgBtted4W2Q=w757-h614-no?authuser=2" style="text-align: center;" target="_blank"><img alt="" src="https://lh3.googleusercontent.com/pw/ACtC-3ehKKYPxBCJ2bTTAEnMFevvsGdJrBFSjAQAbiXFDol9hMKGxWVPU6DXUX4BUgSlThNA41UnRH5bGHJUp_OzWu1iB_TIbTlTGAyptwgV1zCsv1U1iZVIHVHjx8h6bKfSGx1RrwSMFzKJyQ-qgBtted4W2Q=w757-h614-no?authuser=2" style="width: 650px; height: 528px;" /></a></p>
-
-<p><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><strong>Sản phẩm liên quan:</strong></span></span></p>
-
-<ul>
-	<li><a href="http://www.chiemtaimobile.vn/cap-sac-usb-type-c-to-usb-type-c-2.0-anker-powerline-a8182-dai-1.8m.html" target="_blank">Cáp sạc USB type C to USB type C 2.0 Anker PowerLine A8182 (dài 1.8m)</a></li>
-	<li><span style="font-size:14px;"><span style="font-family:arial,helvetica,sans-serif;"><a href="http://www.chiemtaimobile.vn/coc-sac-1-cong-usb-type-c-anker-powerport-a2014.html" target="_blank">Cốc sạc USB type C Anker PowerPort A2014 30W</a></span></span></li>
-</ul>
-
-<p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;"><strong>Cốc sạc Anker A2013</strong> có khả năng tương thích với các thiết bị khác, cốc có thể tương thích với tất cả công nghệ <span style="color:#FF8C00;">QC 1.0, 2.0, 3.0</span>, công nghệ độc quyền của <span style="color:#FF8C00;">PowerIQ</span>&nbsp;nên vừa có thể cho tốc độ nhanh vừa thích hợp với nhiều hệ điều hành khác nhau từ Ios đến Android trên nhiều thiết bị khác nhau.</span></span></p>
-
-<h2 style="text-align: justify;"><strong><span style="font-size:22px;">Hệ thống an toàn Multiprotect</span></strong></h2>
-
-<p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">Hệ thống an toàn trên <a href="http://www.chiemtaimobile.vn/sac/" target="_blank">cốc sạc</a> sẽ giúp phòng chống rò rỉ điện, sạc quá dòng. Bảo vệ bạn và thiết bị của bạn được an toàn. Cốc sạc của Anker đều được cấp các chứng chỉ an toàn chứng nhận (<span style="color:#FF8C00;">PSE và RoHS</span>). Mọi linh kiện và bảng mạch bên trong sản phẩm đều được làm từ những vật liệu tốt nhất của ngành công nghiệp. Cốc sạc sẽ tự động ngắt nguồn nếu phát hiện thấy bất cứ điệu gì thất thường như quá dòng, đoản mạch hay bị rò rỉ, nên đây sẽ là một sản phẩm an toàn tuyệt đối cho người dùng.</span></span></p>
-
-<p style="text-align: center;"><a href="https://lh3.googleusercontent.com/pw/ACtC-3fZyNW0EJ5Ba8nrwPD6bu24R-aQ5Slj5H0FAdv2Da0POvc0ohnU0zOcraL9jMepngsn2Ijte-y4wFwepnmw80g2dUL9YpRGq90fwcrUBStiDlPPE_osD8JJtei8Mt8ZXs9YOalTAWcrAPOQ24DUqHjOiQ=w900" target="_blank"><img alt="" src="https://lh3.googleusercontent.com/pw/ACtC-3fZyNW0EJ5Ba8nrwPD6bu24R-aQ5Slj5H0FAdv2Da0POvc0ohnU0zOcraL9jMepngsn2Ijte-y4wFwepnmw80g2dUL9YpRGq90fwcrUBStiDlPPE_osD8JJtei8Mt8ZXs9YOalTAWcrAPOQ24DUqHjOiQ=w900" style="width: 650px; height: 650px;" /></a></p>
-
-<p style="text-align: justify;"><span style="font-family:arial,helvetica,sans-serif;"><span style="font-size:14px;">Ngoài ra, <strong>cốc sạc Anker QC 3.0 A2013</strong> còn rất tiết kiệm nặng lượng, rất thân thiện với môi trường khi được Bộ Năng lượng Hoa Kỳ đánh giá hiệu quả năng lượng cao (Cấp độ VI).</span></span></p>
-</div>
-
-                            
-            </div>
-                                                        
-            
-            
-            <div id="content_files" class="ty-wysiwyg-content content-files">
-                                                    
-
-                            
-            </div>
-                                
-            
-            
-            <div id="content_tags" class="ty-wysiwyg-content content-tags">
-                                                    
-    
-
-                            
-            </div>
-                                
-            
-            
-            <div id="content_attachments" class="ty-wysiwyg-content content-attachments">
-                                                    
-
-                            
-            </div>
-                                            
-            
-            
-            <div id="content_required_products" class="ty-wysiwyg-content content-required_products">
-                                                    
-
-                            
-            </div>
-                                
-            
-            
-            <div id="content_taki_faqs" class="ty-wysiwyg-content content-taki_faqs">
-                                                    
-
-                            
-            </div>
-                                
-            
-            
-            <div id="content_taki_uxblocks" class="ty-wysiwyg-content content-taki_uxblocks">
-                                                    
-
-                            
-            </div>
-                        
-</div>
-
-
-
-                        
-
-            
-      </div>
-      <div class="ja-pro-right span6 abc-123">
-                          
-          <div class="ty-product-block__tinh_nang abc-123">
-            <h3 class="product-box-title"><span>THÔNG SỐ</span></h3>
-            <table border="1" cellpadding="1" cellspacing="1" style="width: 390px;">
-	<tbody>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; width:148pt; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap" width="197"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Thương hiệu</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-left:none; width:195pt; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap" width="260"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Anker</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Model</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;A2013</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Màu sắc</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Màu đen</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Chất liệu</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Nhựa ABS</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Kích thước</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;56x28x56mm</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Điện áp đầu vào</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;AC 100-240 V ~ 0.7 A 50-60 Hz</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Điện áp đầu ra</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;5V-3A, 9V - 2A, 12V - 1.5A</span></span></span></span></span></span></td>
-		</tr>
-		<tr>
-			<td class="xl65" height="20" style="border:0.5pt solid windowtext; height:15.0pt; border-top:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">Công nghệ sạc nhanh</span></span></span></span></span></span></td>
-			<td class="xl65" style="border:0.5pt solid windowtext; border-top:none; border-left:none; padding-top:1px; padding-right:1px; padding-left:1px; vertical-align:bottom; white-space:nowrap"><span style="font-size:11pt"><span style="font-family:Arial,sans-serif"><span style="color:black"><span style="font-weight:400"><span style="font-style:normal"><span style="text-decoration:none">&nbsp;Quick Charge 3.0</span></span></span></span></span></span></td>
-		</tr>
-	</tbody>
-</table>
-
-<p>&nbsp;</p>
-
-                      </div>
-              </div>
-    </div>
-</div>
-
-<div class="product-details">
-</div>
-
-
-<!-- Inline script moved to the bottom of the page -->
                             </div>
         </div>                                        
             <div class="row-fluid">                        <div class="span16  sub-grid-list-home" >
-                                    <div class="ty-mainbox-simple-container clearfix mt40 hidden-tablet hidden-phone">
+                                    <div class="ty-mainbox-simple-container clearfix mt40">
                     <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
                                 
-                                    Sản phẩm cùng thương hiệu
+                                    Sản phẩm nổi bật
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">
+
+        
+
+
+<!-- Inline script moved to the bottom of the page -->
+
+
+<div id="scroll_list_81" class="owl-carousel ty-scroller-list grid-list ty-scroller-advanced">
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_8100017944" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17944][product_id]" value="17944" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/vong-deo-tay-thong-minh-xiaomi-mi-band-5.html">
+        <img class="ty-pict     cm-image" id="det_img_8100017944"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/18/xiaomi-mi-band-5__5_.jpg"  alt="Vòng đeo tay thông minh Xiaomi Mi Band 5" title="Vòng đeo tay thông minh Xiaomi Mi Band 5"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/vong-deo-tay-thong-minh-xiaomi-mi-band-5.html" class="product-title product-title-override-2" title="Vòng đeo tay thông minh Xiaomi Mi Band 5" >Vòng đeo tay thông minh Xiaomi Mi Band 5</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-8100017944" id="old_price_update_8100017944">
+            
+                        
+
+        <!--old_price_update_8100017944--></span>
+    
+                                                            <span class="cm-reload-8100017944 ty-price-update" id="price_update_8100017944">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8100017944">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8100017944" class="ty-price-num">850.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8100017944--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_8100015079" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[15079][product_id]" value="15079" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/robot-hut-bui-lau-san-thong-minh-roborock-s6-pure-ban-quoc-te.html">
+        <img class="ty-pict     cm-image" id="det_img_8100015079"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/17/robot-hut-bui-lau-san-thong-minh-roborock-s6-pure-ban-quoc-te-1.jpg"  alt="Robot hút bụi lau sàn thông minh Roborock S6 Pure (bản Quốc tế)" title="Robot hút bụi lau sàn thông minh Roborock S6 Pure (bản Quốc tế)"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/robot-hut-bui-lau-san-thong-minh-roborock-s6-pure-ban-quoc-te.html" class="product-title product-title-override-2" title="Robot hút bụi lau sàn thông minh Roborock S6 Pure (bản Quốc tế)" >Robot hút bụi lau sàn thông minh Roborock S6 Pure (bản Qu...</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-8100015079" id="old_price_update_8100015079">
+            
+                        
+
+        <!--old_price_update_8100015079--></span>
+    
+                                                            <span class="cm-reload-8100015079 ty-price-update" id="price_update_8100015079">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8100015079">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8100015079" class="ty-price-num">9.700.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8100015079--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810002903" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[2903][product_id]" value="2903" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810002903" id="product_labels_update_810002903">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 5%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810002903--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/robot-hut-bui-xiaomi-mijia-gen-2-2019.html">
+        <img class="ty-pict     cm-image" id="det_img_810002903"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/pms_1574134033.85899625_84uv-11.png"  alt="Robot hút bụi lau nhà Xiaomi Mijia Gen 2 Vacuum Mop P (2019)" title="Robot hút bụi lau nhà Xiaomi Mijia Gen 2 Vacuum Mop P (2019)"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/robot-hut-bui-xiaomi-mijia-gen-2-2019.html" class="product-title product-title-override-2" title="Robot hút bụi lau nhà Xiaomi Mijia Gen 2 Vacuum Mop P (2019)" >Robot hút bụi lau nhà Xiaomi Mijia Gen 2 Vacuum Mop P (2019)</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810002903" id="old_price_update_810002903">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810002903"><span class="ty-strike"><bdi><span id="sec_list_price_810002903" class="ty-list-price ty-nowrap">6.300.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810002903--></span>
+    
+                                                            <span class="cm-reload-810002903 ty-price-update" id="price_update_810002903">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810002903">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810002903" class="ty-price-num">5.999.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810002903--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810002874" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[2874][product_id]" value="2874" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810002874" id="product_labels_update_810002874">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 6%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810002874--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/may-loc-khong-khi-thong-minh-xiaomi-gen-3.html">
+        <img class="ty-pict     cm-image" id="det_img_810002874"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/pms_1565074581.53061893.jpg"  alt="Máy lọc không khí thông minh Xiaomi gen 3" title="Máy lọc không khí thông minh Xiaomi gen 3"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/may-loc-khong-khi-thong-minh-xiaomi-gen-3.html" class="product-title product-title-override-2" title="Máy lọc không khí thông minh Xiaomi gen 3" >Máy lọc không khí thông minh Xiaomi gen 3</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810002874" id="old_price_update_810002874">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810002874"><span class="ty-strike"><bdi><span id="sec_list_price_810002874" class="ty-list-price ty-nowrap">3.100.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810002874--></span>
+    
+                                                            <span class="cm-reload-810002874 ty-price-update" id="price_update_810002874">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810002874">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810002874" class="ty-price-num">2.899.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810002874--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810005789" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5789][product_id]" value="5789" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810005789" id="product_labels_update_810005789">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 15%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810005789--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/bo-may-game-box-pandora-4s-ho-tro-680-game.html">
+        <img class="ty-pict     cm-image" id="det_img_810005789"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/game-box-pandora-4s.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/bo-may-game-box-pandora-4s-ho-tro-680-game.html" class="product-title product-title-override-2" title="Bộ máy game box Pandora 6S 2255 - 2700 trò chơi ( phiên bản 2019)" >Bộ máy game box Pandora 6S 2255 - 2700 trò chơi ( phiên b...</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810005789" id="old_price_update_810005789">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810005789"><span class="ty-strike"><bdi><span id="sec_list_price_810005789" class="ty-list-price ty-nowrap">2.000.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810005789--></span>
+    
+                                                            <span class="cm-reload-810005789 ty-price-update" id="price_update_810005789">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810005789">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810005789" class="ty-price-num">1.699.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810005789--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810002338" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[2338][product_id]" value="2338" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810002338" id="product_labels_update_810002338">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 20%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810002338--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/quat-cam-tay-mini-zmi-af215.html">
+        <img class="ty-pict     cm-image" id="det_img_810002338"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/2/quat-cam-tay-zmi-h14.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/quat-cam-tay-mini-zmi-af215.html" class="product-title product-title-override-2" title="Quạt cầm tay mini ZMI AF215 3350 mAh" >Quạt cầm tay mini ZMI AF215 3350 mAh</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810002338" id="old_price_update_810002338">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810002338"><span class="ty-strike"><bdi><span id="sec_list_price_810002338" class="ty-list-price ty-nowrap">250.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810002338--></span>
+    
+                                                            <span class="cm-reload-810002338 ty-price-update" id="price_update_810002338">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810002338">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810002338" class="ty-price-num">199.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810002338--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_8100014969" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[14969][product_id]" value="14969" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/camera-thong-minh-xiaomi-standard-version.html">
+        <img class="ty-pict     cm-image" id="det_img_8100014969"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/15/camera-thong-minh-xiaomi-standard-version__1_.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/camera-thong-minh-xiaomi-standard-version.html" class="product-title product-title-override-2" title="Camera IP thông minh Xiaomi 1080P Magnetic Mount (Standard Version)" >Camera IP thông minh Xiaomi 1080P Magnetic Mount (Standar...</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-8100014969" id="old_price_update_8100014969">
+            
+                        
+
+        <!--old_price_update_8100014969--></span>
+    
+                                                            <span class="cm-reload-8100014969 ty-price-update" id="price_update_8100014969">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8100014969">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8100014969" class="ty-price-num">400.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8100014969--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_8100015086" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[15086][product_id]" value="15086" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-8100015086" id="product_labels_update_8100015086">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 10%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_8100015086--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/tai-nghe-gaming-true-wireless-qcy-t5s.html">
+        <img class="ty-pict     cm-image" id="det_img_8100015086"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/15/thumbnail_mu3s-18.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/tai-nghe-gaming-true-wireless-qcy-t5s.html" class="product-title product-title-override-2" title="Tai nghe Gaming True Wireless QCY T5S" >Tai nghe Gaming True Wireless QCY T5S</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-8100015086" id="old_price_update_8100015086">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_8100015086"><span class="ty-strike"><bdi><span id="sec_list_price_8100015086" class="ty-list-price ty-nowrap">500.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_8100015086--></span>
+    
+                                                            <span class="cm-reload-8100015086 ty-price-update" id="price_update_8100015086">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8100015086">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8100015086" class="ty-price-num">450.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8100015086--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810001672" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[1672][product_id]" value="1672" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-remax-pd-bt400.html">
+        <img class="ty-pict     cm-image" id="det_img_810001672"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/2/tai-nghe-bluetooth-true-wireles-remax-pd-bt400__1_.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-remax-pd-bt400.html" class="product-title product-title-override-2" title="Tai nghe Bluetooth True Wireless Remax PD-BT400" >Tai nghe Bluetooth True Wireless Remax PD-BT400</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810001672" id="old_price_update_810001672">
+            
+                        
+
+        <!--old_price_update_810001672--></span>
+    
+                                                            <span class="cm-reload-810001672 ty-price-update" id="price_update_810001672">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810001672">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810001672" class="ty-price-num">750.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810001672--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810004251" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[4251][product_id]" value="4251" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810004251" id="product_labels_update_810004251">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 5%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810004251--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/quat-dung-thong-minh-smartmi-gen-2-gen-2s-2019.html">
+        <img class="ty-pict     cm-image" id="det_img_810004251"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/4/quat-dung-thong-minh-smartmi-gen2-gen2s-_2019.jpg"  alt="Quạt đứng thông minh Smartmi gen 2S (2019) pin 2800 mAh" title="Quạt đứng thông minh Smartmi gen 2S (2019) pin 2800 mAh"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/quat-dung-thong-minh-smartmi-gen-2-gen-2s-2019.html" class="product-title product-title-override-2" title="Quạt đứng thông minh Smartmi gen 2S (2019) pin 2800 mAh" >Quạt đứng thông minh Smartmi gen 2S (2019) pin 2800 mAh</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810004251" id="old_price_update_810004251">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810004251"><span class="ty-strike"><bdi><span id="sec_list_price_810004251" class="ty-list-price ty-nowrap">2.100.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810004251--></span>
+    
+                                                            <span class="cm-reload-810004251 ty-price-update" id="price_update_810004251">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810004251">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810004251" class="ty-price-num">1.999.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810004251--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810004268" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[4268][product_id]" value="4268" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810004268" id="product_labels_update_810004268">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 15%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810004268--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/quat-mini-de-ban-solove-f5.html">
+        <img class="ty-pict     cm-image" id="det_img_810004268"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/4/quat-solove-h6.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/quat-mini-de-ban-solove-f5.html" class="product-title product-title-override-2" title="Quạt mini để bàn SOLOVE F5" >Quạt mini để bàn SOLOVE F5</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810004268" id="old_price_update_810004268">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810004268"><span class="ty-strike"><bdi><span id="sec_list_price_810004268" class="ty-list-price ty-nowrap">350.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810004268--></span>
+    
+                                                            <span class="cm-reload-810004268 ty-price-update" id="price_update_810004268">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810004268">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810004268" class="ty-price-num">299.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810004268--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_8100015477" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[15477][product_id]" value="15477" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-8100015477" id="product_labels_update_8100015477">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 9%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_8100015477--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/quat-dung-thong-minh-xiaomi-jllds01dm.html">
+        <img class="ty-pict     cm-image" id="det_img_8100015477"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/quat-dung-thong-minh-xiaomi-jllds01dm___8_.jpg"  alt="Quạt đứng thông minh Xiaomi JLLDS01DM" title="Quạt đứng thông minh Xiaomi JLLDS01DM"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/quat-dung-thong-minh-xiaomi-jllds01dm.html" class="product-title product-title-override-2" title="Quạt đứng thông minh Xiaomi JLLDS01DM" >Quạt đứng thông minh Xiaomi JLLDS01DM</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-8100015477" id="old_price_update_8100015477">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_8100015477"><span class="ty-strike"><bdi><span id="sec_list_price_8100015477" class="ty-list-price ty-nowrap">1.150.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_8100015477--></span>
+    
+                                                            <span class="cm-reload-8100015477 ty-price-update" id="price_update_8100015477">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8100015477">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8100015477" class="ty-price-num">1.050.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8100015477--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_8100015481" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[15481][product_id]" value="15481" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/coc-sac-nhanh-qc-3.0-anker-a2013-iq-powerport-1-cong-18w-chinh-hang.html">
+        <img class="ty-pict     cm-image" id="det_img_8100015481"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/thumbanker.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/coc-sac-nhanh-qc-3.0-anker-a2013-iq-powerport-1-cong-18w-chinh-hang.html" class="product-title product-title-override-2" title="Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W chính hãng (không hộp)" >Cốc sạc nhanh QC 3.0 Anker A2013 IQ Powerport+ 1 cổng 18W...</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-8100015481" id="old_price_update_8100015481">
+            
+                        
+
+        <!--old_price_update_8100015481--></span>
+    
+                                                            <span class="cm-reload-8100015481 ty-price-update" id="price_update_8100015481">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8100015481">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8100015481" class="ty-price-num">200.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8100015481--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810005664" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[5664][product_id]" value="5664" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+                    <div class="ty-product-labels ty-product-labels--top-right   cm-reload-810005664" id="product_labels_update_810005664">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 14%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_810005664--></div>
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/kinh-mat-xiaomi-turok-steinhardt-mau-den.html">
+        <img class="ty-pict     cm-image" id="det_img_810005664"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/mat-kinh-ts__10_.jpg"  alt="" title=""/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/kinh-mat-xiaomi-turok-steinhardt-mau-den.html" class="product-title product-title-override-2" title="Kính mát Xiaomi Turok Steinhardt TSS101-2 (màu đen)" >Kính mát Xiaomi Turok Steinhardt TSS101-2 (màu đen)</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810005664" id="old_price_update_810005664">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_810005664"><span class="ty-strike"><bdi><span id="sec_list_price_810005664" class="ty-list-price ty-nowrap">700.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_810005664--></span>
+    
+                                                            <span class="cm-reload-810005664 ty-price-update" id="price_update_810005664">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810005664">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810005664" class="ty-price-num">599.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810005664--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+            
+        <div class="ty-scroller-list__item">
+                                                            
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                <div class="ty-grid-list__item ty-quick-view-button__wrapper ty-left
+                ">
+                                        <form action="http://chiemtaimobile.vn/" method="post" name="product_form_810002306" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[2306][product_id]" value="2306" />
+
+
+                    <div class="ty-grid-list__image">
+                                                                    
+            
+
+                        
+
+
+        <a href="http://chiemtaimobile.vn/can-dien-tu-thong-minh-xiaomi-body-fat-scale-2-universal-2019.html">
+        <img class="ty-pict     cm-image" id="det_img_810002306"  src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/2/can-mini-2-h5.jpg"  alt="Cân điện tử thông minh Xiaomi Body Fat Scale 2 Universal (2019)" title="Cân điện tử thông minh Xiaomi Body Fat Scale 2 Universal (2019)"/>
+
+
+    </a>
+
+
+                    </div>
+
+                    <div class="ty-grid-list__item-name">
+                        
+                                                <bdi> 
+	    <a href="http://chiemtaimobile.vn/can-dien-tu-thong-minh-xiaomi-body-fat-scale-2-universal-2019.html" class="product-title product-title-override-2" title="Cân điện tử thông minh Xiaomi Body Fat Scale 2 Universal (2019)" >Cân điện tử thông minh Xiaomi Body Fat Scale 2 Universal ...</a>
+</bdi>
+                    </div>
+
+                                            <div class="ty-grid-list__price ">
+                                                                    <span class="cm-reload-810002306" id="old_price_update_810002306">
+            
+                        
+
+        <!--old_price_update_810002306--></span>
+    
+                                                            <span class="cm-reload-810002306 ty-price-update" id="price_update_810002306">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_810002306">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_810002306" class="ty-price-num">500.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_810002306--></span>
+
+
+                                                            
+
+                                                            
+                        </div>
+                    
+                                                                <div class="grid-list__rating">
+                                
+    
+
+
+                        </div>
+                    
+                    
+
+                    
+                                        <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+
+                </div>
+                    </div>
+        
+
+    </div>
+
+<!-- Inline script moved to the bottom of the page -->
+<!-- Inline script moved to the bottom of the page -->
+
+</div>
+    </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-desktop hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    Xiaomi
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">
+    
+
+    <!-- Inline script moved to the bottom of the page -->
+    
+
+    
+    
+            
+    
+    
+    
+    
+    
+
+        <div class="grid-list">
+        <div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10200018033" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18033][product_id]" value="18033" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/phu-kien-thay-the-cho-robot-hut-bui-lau-san-thong-minh-roborock.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/untitled-1.jpg"  alt="Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh RoborockPhụ kiện thay thế cho Robot hút bụi lau sàn thông minh Roborock" title="Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh RoborockPhụ kiện thay thế cho Robot hút bụi lau sàn thông minh Roborock"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/phu-kien-thay-the-cho-robot-hut-bui-lau-san-thong-minh-roborock.html" class="product-title product-title-override-1 ttl-60" title="Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh Roborock" >              Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh Ro...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-10200018033" id="old_price_update_10200018033">
+            
+                        
+
+        <!--old_price_update_10200018033--></span>
+        <span class="cm-reload-10200018033 ty-price-update" id="price_update_10200018033">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
+                            
+
+                        <!--price_update_10200018033--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10200018032" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18032][product_id]" value="18032" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/bo-phu-kien-thay-the-robot-hut-bui-lau-san-thong-minh-roborock-s6-pure.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/phu-kien-thay-the-robot-hut-bui__4_.jpg"  alt="Bộ phụ kiện thay thế Robot hút bụi lau sàn thông minh Roborock S6 Pure" title="Bộ phụ kiện thay thế Robot hút bụi lau sàn thông minh Roborock S6 Pure"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/bo-phu-kien-thay-the-robot-hut-bui-lau-san-thong-minh-roborock-s6-pure.html" class="product-title product-title-override-1 ttl-60" title="Phụ kiện thay thế Robot hút bụi lau sàn thông minh Roborock S6 Pure" >              Phụ kiện thay thế Robot hút bụi lau sàn thông minh Roboro...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-10200018032" id="old_price_update_10200018032">
+            
+                        
+
+        <!--old_price_update_10200018032--></span>
+        <span class="cm-reload-10200018032 ty-price-update" id="price_update_10200018032">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
+                            
+
+                        <!--price_update_10200018032--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10200018030" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18030][product_id]" value="18030" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/noi-chien-khong-dau-liven-g-5.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/noi-chien-khong-dau-liven__5_.jpg"  alt="Nồi chiên không dầu LIVEN G-5" title="Nồi chiên không dầu LIVEN G-5"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/noi-chien-khong-dau-liven-g-5.html" class="product-title product-title-override-1 ttl-60" title="Nồi chiên không dầu LIVEN G-5" >              Nồi chiên không dầu LIVEN G-5
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10200018030" id="old_price_update_10200018030">
+            
+                        
+
+        <!--old_price_update_10200018030--></span>
+        <span class="cm-reload-10200018030 ty-price-update" id="price_update_10200018030">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10200018030">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10200018030" class="ty-price-num">1.350.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10200018030--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10200018026" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18026][product_id]" value="18026" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/may-cao-gio-giac-hoi-dien-leravan.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/may-cao-gio-giac-hoi-dien-leravan__100_.gif"  alt="Máy cạo gió, giác hơi điện Leravan" title="Máy cạo gió, giác hơi điện Leravan"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/may-cao-gio-giac-hoi-dien-leravan.html" class="product-title product-title-override-1 ttl-60" title="Máy cạo gió, giác hơi điện Leravan" >              Máy cạo gió, giác hơi điện Leravan
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10200018026" id="old_price_update_10200018026">
+            
+                        
+
+        <!--old_price_update_10200018026--></span>
+        <span class="cm-reload-10200018026 ty-price-update" id="price_update_10200018026">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10200018026">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10200018026" class="ty-price-num">1.000.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10200018026--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10200018019" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18019][product_id]" value="18019" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/kep-thom-khu-mui-o-to-shamood.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/kep-huong-shamood__8_.jpg"  alt="Kẹp thơm khử mùi ô tô Shamood" title="Kẹp thơm khử mùi ô tô Shamood"/>
+
+
+    </a>
+
+                    
+                    <div class="ty-product-labels ty-product-labels--bottom-left   cm-reload-10200018019" id="product_labels_update_10200018019">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 26%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_10200018019--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/kep-thom-khu-mui-o-to-shamood.html" class="product-title product-title-override-1 ttl-60" title="Kẹp thơm khử mùi ô tô Shamood" >              Kẹp thơm khử mùi ô tô Shamood
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10200018019" id="old_price_update_10200018019">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_10200018019"><span class="ty-strike"><bdi><span id="sec_list_price_10200018019" class="ty-list-price ty-nowrap">200.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_10200018019--></span>
+        <span class="cm-reload-10200018019 ty-price-update" id="price_update_10200018019">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10200018019">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10200018019" class="ty-price-num">149.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10200018019--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10200018015" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18015][product_id]" value="18015" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/sap-thom-cao-cap-shamood.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/sap-thom-cao-cap-shamood__1_.jpg"  alt="" title=""/>
+
+
+    </a>
+
+                    
+                    <div class="ty-product-labels ty-product-labels--bottom-left   cm-reload-10200018015" id="product_labels_update_10200018015">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 26%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_10200018015--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/sap-thom-cao-cap-shamood.html" class="product-title product-title-override-1 ttl-60" title="Sáp thơm cao cấp Shamood" >              Sáp thơm cao cấp Shamood
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10200018015" id="old_price_update_10200018015">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_10200018015"><span class="ty-strike"><bdi><span id="sec_list_price_10200018015" class="ty-list-price ty-nowrap">200.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_10200018015--></span>
+        <span class="cm-reload-10200018015 ty-price-update" id="price_update_10200018015">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10200018015">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10200018015" class="ty-price-num">149.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10200018015--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div>    </div>
+
+    
+
+</div>
+    </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-phone hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    XIAOMI
                                 
 
                             </h2></div>
@@ -1470,42 +3268,44 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8400017877" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8700018033" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[17877][product_id]" value="17877" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18033][product_id]" value="18033" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/coc-sac-1-cong-usb-type-c-anker-powerport-a2014.html?variation_id=17877">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/2/coc-sac_-usb_type-c-anker_powerport-a2014___8_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/phu-kien-thay-the-cho-robot-hut-bui-lau-san-thong-minh-roborock.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/untitled-1.jpg"  alt="Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh RoborockPhụ kiện thay thế cho Robot hút bụi lau sàn thông minh Roborock" title="Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh RoborockPhụ kiện thay thế cho Robot hút bụi lau sàn thông minh Roborock"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/coc-sac-1-cong-usb-type-c-anker-powerport-a2014.html?variation_id=17877" class="product-title product-title-override-1 ttl-60" title="Cốc sạc USB type C Anker PowerPort A2014 30W" >              Cốc sạc USB type C Anker PowerPort A2014 30W
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/phu-kien-thay-the-cho-robot-hut-bui-lau-san-thong-minh-roborock.html" class="product-title product-title-override-1 ttl-60" title="Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh Roborock" >              Phụ kiện thay thế cho Robot hút bụi lau sàn thông minh Ro...
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-8400017877" id="old_price_update_8400017877">
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-8700018033" id="old_price_update_8700018033">
             
                         
 
-        <!--old_price_update_8400017877--></span>
-        <span class="cm-reload-8400017877 ty-price-update" id="price_update_8400017877">
+        <!--old_price_update_8700018033--></span>
+        <span class="cm-reload-8700018033 ty-price-update" id="price_update_8700018033">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_8400017877">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_8400017877" class="ty-price-num">300.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
                             
 
-                        <!--price_update_8400017877--></span>
+                        <!--price_update_8700018033--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
 </div></div><div class="ty-column5">
@@ -1546,42 +3346,44 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840005879" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8700018032" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[5879][product_id]" value="5879" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18032][product_id]" value="18032" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u14-steel.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/hoco-u14-lightning__5_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/bo-phu-kien-thay-the-robot-hut-bui-lau-san-thong-minh-roborock-s6-pure.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/phu-kien-thay-the-robot-hut-bui__4_.jpg"  alt="Bộ phụ kiện thay thế Robot hút bụi lau sàn thông minh Roborock S6 Pure" title="Bộ phụ kiện thay thế Robot hút bụi lau sàn thông minh Roborock S6 Pure"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u14-steel.html" class="product-title product-title-override-1 ttl-60" title="Cáp Hoco U14 Steel" >              Cáp Hoco U14 Steel
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/bo-phu-kien-thay-the-robot-hut-bui-lau-san-thong-minh-roborock-s6-pure.html" class="product-title product-title-override-1 ttl-60" title="Phụ kiện thay thế Robot hút bụi lau sàn thông minh Roborock S6 Pure" >              Phụ kiện thay thế Robot hút bụi lau sàn thông minh Roboro...
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840005879" id="old_price_update_840005879">
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-8700018032" id="old_price_update_8700018032">
             
                         
 
-        <!--old_price_update_840005879--></span>
-        <span class="cm-reload-840005879 ty-price-update" id="price_update_840005879">
+        <!--old_price_update_8700018032--></span>
+        <span class="cm-reload-8700018032 ty-price-update" id="price_update_8700018032">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_840005879">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_840005879" class="ty-price-num">130.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
                             
 
-                        <!--price_update_840005879--></span>
+                        <!--price_update_8700018032--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
 </div></div><div class="ty-column5">
@@ -1622,42 +3424,42 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840007277" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8700018030" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[7277][product_id]" value="7277" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18030][product_id]" value="18030" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u9-dai-1.2m.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/7/hoco-u9__4__ppoy-it.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/noi-chien-khong-dau-liven-g-5.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/noi-chien-khong-dau-liven__5_.jpg"  alt="Nồi chiên không dầu LIVEN G-5" title="Nồi chiên không dầu LIVEN G-5"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u9-dai-1.2m.html" class="product-title product-title-override-1 ttl-60" title="Cáp lightning Hoco U9 dài 1.2m" >              Cáp lightning Hoco U9 dài 1.2m
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/noi-chien-khong-dau-liven-g-5.html" class="product-title product-title-override-1 ttl-60" title="Nồi chiên không dầu LIVEN G-5" >              Nồi chiên không dầu LIVEN G-5
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840007277" id="old_price_update_840007277">
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8700018030" id="old_price_update_8700018030">
             
                         
 
-        <!--old_price_update_840007277--></span>
-        <span class="cm-reload-840007277 ty-price-update" id="price_update_840007277">
+        <!--old_price_update_8700018030--></span>
+        <span class="cm-reload-8700018030 ty-price-update" id="price_update_8700018030">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_840007277">
+                                    <span class="ty-price" id="line_discounted_price_8700018030">
                       
                       
-                                              <bdi><span id="sec_discounted_price_840007277" class="ty-price-num">110.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                              <bdi><span id="sec_discounted_price_8700018030" class="ty-price-num">1.350.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
                                         </span>
                             
 
-                        <!--price_update_840007277--></span>
+                        <!--price_update_8700018030--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
 </div></div><div class="ty-column5">
@@ -1698,42 +3500,42 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8400017721" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8700018026" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[17721][product_id]" value="17721" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18026][product_id]" value="18026" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/cap-usb-lighting-hoco-upl12-200cm.html?variation_id=17721">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/cap-usb-lighting-hoco-upl12.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/may-cao-gio-giac-hoi-dien-leravan.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/may-cao-gio-giac-hoi-dien-leravan__100_.gif"  alt="Máy cạo gió, giác hơi điện Leravan" title="Máy cạo gió, giác hơi điện Leravan"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-usb-lighting-hoco-upl12-200cm.html?variation_id=17721" class="product-title product-title-override-1 ttl-60" title="Cáp USB Lighting Hoco UPL12 (30cm / 120cm / 200cm)" >              Cáp USB Lighting Hoco UPL12 (30cm / 120cm / 200cm)
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/may-cao-gio-giac-hoi-dien-leravan.html" class="product-title product-title-override-1 ttl-60" title="Máy cạo gió, giác hơi điện Leravan" >              Máy cạo gió, giác hơi điện Leravan
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-8400017721" id="old_price_update_8400017721">
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8700018026" id="old_price_update_8700018026">
             
                         
 
-        <!--old_price_update_8400017721--></span>
-        <span class="cm-reload-8400017721 ty-price-update" id="price_update_8400017721">
+        <!--old_price_update_8700018026--></span>
+        <span class="cm-reload-8700018026 ty-price-update" id="price_update_8700018026">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_8400017721">
+                                    <span class="ty-price" id="line_discounted_price_8700018026">
                       
                       
-                                              <bdi><span id="sec_discounted_price_8400017721" class="ty-price-num">150.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                              <bdi><span id="sec_discounted_price_8700018026" class="ty-price-num">1.000.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
                                         </span>
                             
 
-                        <!--price_update_8400017721--></span>
+                        <!--price_update_8700018026--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
 </div></div><div class="ty-column5">
@@ -1774,422 +3576,54 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840007276" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8700018019" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[7276][product_id]" value="7276" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18019][product_id]" value="18019" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u9-dai-2m.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/7/hoco-u9__4_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/kep-thom-khu-mui-o-to-shamood.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/kep-huong-shamood__8_.jpg"  alt="Kẹp thơm khử mùi ô tô Shamood" title="Kẹp thơm khử mùi ô tô Shamood"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u9-dai-2m.html" class="product-title product-title-override-1 ttl-60" title="Cáp lightning Hoco U9 dài 2m" >              Cáp lightning Hoco U9 dài 2m
+                    <div class="ty-product-labels ty-product-labels--bottom-left   cm-reload-8700018019" id="product_labels_update_8700018019">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 26%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_8700018019--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/kep-thom-khu-mui-o-to-shamood.html" class="product-title product-title-override-1 ttl-60" title="Kẹp thơm khử mùi ô tô Shamood" >              Kẹp thơm khử mùi ô tô Shamood
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840007276" id="old_price_update_840007276">
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8700018019" id="old_price_update_8700018019">
             
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_8700018019"><span class="ty-strike"><bdi><span id="sec_list_price_8700018019" class="ty-list-price ty-nowrap">200.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
                         
 
-        <!--old_price_update_840007276--></span>
-        <span class="cm-reload-840007276 ty-price-update" id="price_update_840007276">
+        <!--old_price_update_8700018019--></span>
+        <span class="cm-reload-8700018019 ty-price-update" id="price_update_8700018019">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_840007276">
+                                    <span class="ty-price" id="line_discounted_price_8700018019">
                       
                       
-                                              <bdi><span id="sec_discounted_price_840007276" class="ty-price-num">120.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                              <bdi><span id="sec_discounted_price_8700018019" class="ty-price-num">149.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
                                         </span>
                             
 
-                        <!--price_update_840007276--></span>
-        </div>
-<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column5">
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840005903" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
-<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[5903][product_id]" value="5903" />
-        <div class="ty-grid-list__image">
-
-
-        <a href="http://chiemtaimobile.vn/cap-tu-lightning-hoco-u16.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/hoco-u16-lightning.jpg"  alt="" title=""/>
-
-
-    </a>
-
-                    
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-tu-lightning-hoco-u16.html" class="product-title product-title-override-1 ttl-60" title="Cáp từ Lightning Hoco U16" >              Cáp từ Lightning Hoco U16
-          </a>
-</bdi></div><div class="grid-list__rating">    
-    
-
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840005903" id="old_price_update_840005903">
-            
-                        
-
-        <!--old_price_update_840005903--></span>
-        <span class="cm-reload-840005903 ty-price-update" id="price_update_840005903">
-        <input type="hidden" name="appearance[show_price_values]" value="1" />
-        <input type="hidden" name="appearance[show_price]" value="1" />
-                                
-                                    <span class="ty-price" id="line_discounted_price_840005903">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_840005903" class="ty-price-num">170.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
-                            
-
-                        <!--price_update_840005903--></span>
-        </div>
-<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column5">
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840005369" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
-<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[5369][product_id]" value="5369" />
-        <div class="ty-grid-list__image">
-
-
-        <a href="http://chiemtaimobile.vn/cap-2-dau-da-dung-hoco-upl12.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/cap-sac-2-dau-hoco-upl12__5_.jpg"  alt="" title=""/>
-
-
-    </a>
-
-                    
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-2-dau-da-dung-hoco-upl12.html" class="product-title product-title-override-1 ttl-60" title="Cáp 2 đầu đa dụng HOCO UPL12" >              Cáp 2 đầu đa dụng HOCO UPL12
-          </a>
-</bdi></div><div class="grid-list__rating">    
-    
-
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840005369" id="old_price_update_840005369">
-            
-                        
-
-        <!--old_price_update_840005369--></span>
-        <span class="cm-reload-840005369 ty-price-update" id="price_update_840005369">
-        <input type="hidden" name="appearance[show_price_values]" value="1" />
-        <input type="hidden" name="appearance[show_price]" value="1" />
-                                
-                                    <span class="ty-price" id="line_discounted_price_840005369">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_840005369" class="ty-price-num">120.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
-                            
-
-                        <!--price_update_840005369--></span>
-        </div>
-<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column5">
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8400017692" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
-<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[17692][product_id]" value="17692" />
-        <div class="ty-grid-list__image">
-
-
-        <a href="http://chiemtaimobile.vn/cap-lightning-cao-cap-hoco-u17.html?variation_id=17692">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/cap-hoco-u17.jpg"  alt="" title=""/>
-
-
-    </a>
-
-                    
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-lightning-cao-cap-hoco-u17.html?variation_id=17692" class="product-title product-title-override-1 ttl-60" title="Cáp đầu L cao cấp Hoco U17" >              Cáp đầu L cao cấp Hoco U17
-          </a>
-</bdi></div><div class="grid-list__rating">    
-    
-
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-8400017692" id="old_price_update_8400017692">
-            
-                        
-
-        <!--old_price_update_8400017692--></span>
-        <span class="cm-reload-8400017692 ty-price-update" id="price_update_8400017692">
-        <input type="hidden" name="appearance[show_price_values]" value="1" />
-        <input type="hidden" name="appearance[show_price]" value="1" />
-                                
-                                    <span class="ty-price" id="line_discounted_price_8400017692">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_8400017692" class="ty-price-num">145.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
-                            
-
-                        <!--price_update_8400017692--></span>
-        </div>
-<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column5">
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840004754" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
-<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[4754][product_id]" value="4754" />
-        <div class="ty-grid-list__image">
-
-
-        <a href="http://chiemtaimobile.vn/cap-type-c-cao-cap-hoco-u30.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/4/cap-type-c-hoco-u30-hinh-4.jpg"  alt="" title=""/>
-
-
-    </a>
-
-                    
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-type-c-cao-cap-hoco-u30.html" class="product-title product-title-override-1 ttl-60" title="Cáp Type C cao cấp Hoco U30" >              Cáp Type C cao cấp Hoco U30
-          </a>
-</bdi></div><div class="grid-list__rating">    
-    
-
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840004754" id="old_price_update_840004754">
-            
-                        
-
-        <!--old_price_update_840004754--></span>
-        <span class="cm-reload-840004754 ty-price-update" id="price_update_840004754">
-        <input type="hidden" name="appearance[show_price_values]" value="1" />
-        <input type="hidden" name="appearance[show_price]" value="1" />
-                                
-                                    <span class="ty-price" id="line_discounted_price_840004754">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_840004754" class="ty-price-num">150.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
-                            
-
-                        <!--price_update_840004754--></span>
-        </div>
-<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column5">
-    
-    
-    
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_840003774" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
-<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[3774][product_id]" value="3774" />
-        <div class="ty-grid-list__image">
-
-
-        <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u35-smart-power-off-1.2m.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/3/cap-lightning-hoco-u35-1.jpg"  alt="" title=""/>
-
-
-    </a>
-
-                    
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u35-smart-power-off-1.2m.html" class="product-title product-title-override-1 ttl-60" title="Cáp Hoco U35 smart power off (Lightning, Type-C)" >              Cáp Hoco U35 smart power off (Lightning, Type-C)
-          </a>
-</bdi></div><div class="grid-list__rating">    
-    
-
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-840003774" id="old_price_update_840003774">
-            
-                        
-
-        <!--old_price_update_840003774--></span>
-        <span class="cm-reload-840003774 ty-price-update" id="price_update_840003774">
-        <input type="hidden" name="appearance[show_price_values]" value="1" />
-        <input type="hidden" name="appearance[show_price]" value="1" />
-                                
-                                    <span class="ty-price" id="line_discounted_price_840003774">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_840003774" class="ty-price-num">130.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
-                            
-
-                        <!--price_update_840003774--></span>
+                        <!--price_update_8700018019--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
 </div></div>    </div>
@@ -2197,10 +3631,12 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
     
 
 </div>
-    </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-desktop hidden-tablet">
+    </div><div class="more-product ">
+        <div class="ty-wysiwyg-content"  data-ca-live-editor-object-id="0" data-ca-live-editor-object-type=""><a href="http://chiemtaimobile.vn/xiaomi" class="btn btn-viewmore btn-viewmore-product ty-btn ty-btn__primary " >Xem Tất cả</a></div>
+            </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-desktop hidden-tablet">
                     <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
                                 
-                                    SẢN PHẨM CŨNG THƯƠNG HIỆU
+                                    PHỤ KIỆN
                                 
 
                             </h2></div>
@@ -2220,7 +3656,7 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
     
 
         <div class="grid-list">
-        <div class="ty-column4">
+        <div class="ty-column2">
     
     
     
@@ -2258,45 +3694,47 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_11000017877" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10300018036" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[17877][product_id]" value="17877" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18036][product_id]" value="18036" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/coc-sac-1-cong-usb-type-c-anker-powerport-a2014.html?variation_id=17877">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/2/coc-sac_-usb_type-c-anker_powerport-a2014___8_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/cap-sac-nhanh-day-du-hoco-du10-3a-1m-lightning-type-c.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/cap-sac-hoco-du10-1m__1_.jpg"  alt="Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)" title="Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/coc-sac-1-cong-usb-type-c-anker-powerport-a2014.html?variation_id=17877" class="product-title product-title-override-1 ttl-60" title="Cốc sạc USB type C Anker PowerPort A2014 30W" >              Cốc sạc USB type C Anker PowerPort A2014 30W
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-sac-nhanh-day-du-hoco-du10-3a-1m-lightning-type-c.html" class="product-title product-title-override-1 ttl-60" title="Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)" >              Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-11000017877" id="old_price_update_11000017877">
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-10300018036" id="old_price_update_10300018036">
             
                         
 
-        <!--old_price_update_11000017877--></span>
-        <span class="cm-reload-11000017877 ty-price-update" id="price_update_11000017877">
+        <!--old_price_update_10300018036--></span>
+        <span class="cm-reload-10300018036 ty-price-update" id="price_update_10300018036">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_11000017877">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_11000017877" class="ty-price-num">300.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
                             
 
-                        <!--price_update_11000017877--></span>
+                        <!--price_update_10300018036--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column4">
+</div></div><div class="ty-column2">
     
     
     
@@ -2334,45 +3772,47 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_1100005570" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10300018006" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[5570][product_id]" value="5570" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18006][product_id]" value="18006" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
 
 
-        <a href="http://chiemtaimobile.vn/cap-2-dau-micro-usb-lightning-hoco-u9.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/cap-hoco-u9-2-dau__3_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/may-game-box-mini-pandora-3d-3913-tro-tich-hop-man-hinh-19-inch.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/may-game-box-mini-pandora-3d-3913-tro-tich-hop-man-hinh-19-inch__2_.jpg"  alt="Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 19 inch" title="Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 19 inch"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-2-dau-micro-usb-lightning-hoco-u9.html" class="product-title product-title-override-1 ttl-60" title="Cáp 2 đầu micro USB, lightning Hoco U9" >              Cáp 2 đầu micro USB, lightning Hoco U9
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/may-game-box-mini-pandora-3d-3913-tro-tich-hop-man-hinh-19-inch.html" class="product-title product-title-override-1 ttl-60" title="Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 19 inch" >              Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 1...
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-1100005570" id="old_price_update_1100005570">
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-10300018006" id="old_price_update_10300018006">
             
                         
 
-        <!--old_price_update_1100005570--></span>
-        <span class="cm-reload-1100005570 ty-price-update" id="price_update_1100005570">
+        <!--old_price_update_10300018006--></span>
+        <span class="cm-reload-10300018006 ty-price-update" id="price_update_10300018006">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_1100005570">
-                      
-                      
-                                              <bdi><span id="sec_discounted_price_1100005570" class="ty-price-num">120.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
-                                        </span>
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
                             
 
-                        <!--price_update_1100005570--></span>
+                        <!--price_update_10300018006--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column4">
+</div></div><div class="ty-column2">
     
     
     
@@ -2410,45 +3850,57 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_1100005833" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10300017870" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[5833][product_id]" value="5833" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17870][product_id]" value="17870" />
+<div class="ty-grid-list__image">
 
 
-        <a href="http://chiemtaimobile.vn/cap-micro-usb-hoco-u14-steel.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/hoco-u14__3_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t5-pro.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/tai-nghe-bluetooth-true-wireless-qcy-t5-pro-13.jpg"  alt="Tai nghe Bluetooth True Wireless QCY T5 Pro" title="Tai nghe Bluetooth True Wireless QCY T5 Pro"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-micro-usb-hoco-u14-steel.html" class="product-title product-title-override-1 ttl-60" title="Cáp micro-USB Hoco U14 Steel" >              Cáp micro-USB Hoco U14 Steel
+                    <div class="ty-product-labels ty-product-labels--bottom-left   cm-reload-10300017870" id="product_labels_update_10300017870">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 8%</div>
+    </div>
+
+
+        
+            <!--product_labels_update_10300017870--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t5-pro.html" class="product-title product-title-override-1 ttl-60" title="Tai nghe Bluetooth True Wireless QCY T5 Pro" >              Tai nghe Bluetooth True Wireless QCY T5 Pro
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-1100005833" id="old_price_update_1100005833">
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10300017870" id="old_price_update_10300017870">
             
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_10300017870"><span class="ty-strike"><bdi><span id="sec_list_price_10300017870" class="ty-list-price ty-nowrap">650.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
                         
 
-        <!--old_price_update_1100005833--></span>
-        <span class="cm-reload-1100005833 ty-price-update" id="price_update_1100005833">
+        <!--old_price_update_10300017870--></span>
+        <span class="cm-reload-10300017870 ty-price-update" id="price_update_10300017870">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_1100005833">
+                                    <span class="ty-price" id="line_discounted_price_10300017870">
                       
                       
-                                              <bdi><span id="sec_discounted_price_1100005833" class="ty-price-num">100.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                              <bdi><span id="sec_discounted_price_10300017870" class="ty-price-num">599.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
                                         </span>
                             
 
-                        <!--price_update_1100005833--></span>
+                        <!--price_update_10300017870--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
-</div></div><div class="ty-column4">
+</div></div><div class="ty-column2">
     
     
     
@@ -2486,42 +3938,194 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
 
 
 
-<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_1100005879" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10300017858" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
 <input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
-<input type="hidden" name="redirect_url" value="index.php?dispatch=products.view&amp;product_id=15481" />
-<input type="hidden" name="product_data[5879][product_id]" value="5879" />
-        <div class="ty-grid-list__image">
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17858][product_id]" value="17858" />
+<div class="ty-grid-list__image">
 
 
-        <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u14-steel.html">
-        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/5/hoco-u14-lightning__5_.jpg"  alt="" title=""/>
+        <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t4.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/tai-nghe-bluetooth-true-wireless-qcy-t4__1_.jpg"  alt="Tai nghe Bluetooth True Wireless QCY T4" title="Tai nghe Bluetooth True Wireless QCY T4"/>
 
 
     </a>
 
                     
-            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-lightning-hoco-u14-steel.html" class="product-title product-title-override-1 ttl-60" title="Cáp Hoco U14 Steel" >              Cáp Hoco U14 Steel
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t4.html" class="product-title product-title-override-1 ttl-60" title="Tai nghe Bluetooth True Wireless QCY T4" >              Tai nghe Bluetooth True Wireless QCY T4
           </a>
 </bdi></div><div class="grid-list__rating">    
     
 
-</div><div class="ty-grid-list__price ">            <span class="cm-reload-1100005879" id="old_price_update_1100005879">
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10300017858" id="old_price_update_10300017858">
             
                         
 
-        <!--old_price_update_1100005879--></span>
-        <span class="cm-reload-1100005879 ty-price-update" id="price_update_1100005879">
+        <!--old_price_update_10300017858--></span>
+        <span class="cm-reload-10300017858 ty-price-update" id="price_update_10300017858">
         <input type="hidden" name="appearance[show_price_values]" value="1" />
         <input type="hidden" name="appearance[show_price]" value="1" />
                                 
-                                    <span class="ty-price" id="line_discounted_price_1100005879">
+                                    <span class="ty-price" id="line_discounted_price_10300017858">
                       
                       
-                                              <bdi><span id="sec_discounted_price_1100005879" class="ty-price-num">130.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                              <bdi><span id="sec_discounted_price_10300017858" class="ty-price-num">400.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
                                         </span>
                             
 
-                        <!--price_update_1100005879--></span>
+                        <!--price_update_10300017858--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10300017659" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17659][product_id]" value="17659" />
+        <div class="ty-grid-list__image">
+
+
+        <a href="http://chiemtaimobile.vn/adapter-chuyen-doi-1-thanh-2-cong-lightning-hoco-ls18.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/4/adapter-chuyen-doi-lightning-ls18-1.jpg"  alt="" title=""/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/adapter-chuyen-doi-1-thanh-2-cong-lightning-hoco-ls18.html" class="product-title product-title-override-1 ttl-60" title="Adapter chuyển đổi 1 thành 2 cổng lightning Hoco LS18" >              Adapter chuyển đổi 1 thành 2 cổng lightning Hoco LS18
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10300017659" id="old_price_update_10300017659">
+            
+                        
+
+        <!--old_price_update_10300017659--></span>
+        <span class="cm-reload-10300017659 ty-price-update" id="price_update_10300017659">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10300017659">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10300017659" class="ty-price-num">150.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10300017659--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10300016790" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[16790][product_id]" value="16790" />
+        <div class="ty-grid-list__image">
+
+
+        <a href="http://chiemtaimobile.vn/adapter-lightning-to-3.5mm-remax-rl-lao2i.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/2/dau-chuyen-lightning-sang-lightning-va-5jpg.jpg"  alt="" title=""/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/adapter-lightning-to-3.5mm-remax-rl-lao2i.html" class="product-title product-title-override-1 ttl-60" title="Adapter Lightning to 3.5mm Remax RL-LA02i" >              Adapter Lightning to 3.5mm Remax RL-LA02i
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10300016790" id="old_price_update_10300016790">
+            
+                        
+
+        <!--old_price_update_10300016790--></span>
+        <span class="cm-reload-10300016790 ty-price-update" id="price_update_10300016790">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10300016790">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10300016790" class="ty-price-num">150.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10300016790--></span>
         </div>
 <input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
 </div></div>    </div>
@@ -2529,10 +4133,1413 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
     
 
 </div>
+    </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-phone hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    Phụ Kiện
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">
+    
+
+    
+    
+
+    
+    
+            
+    
+    
+    
+    
+    
+
+        <div class="grid-list">
+        <div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8800018036" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18036][product_id]" value="18036" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/cap-sac-nhanh-day-du-hoco-du10-3a-1m-lightning-type-c.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/cap-sac-hoco-du10-1m__1_.jpg"  alt="Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)" title="Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/cap-sac-nhanh-day-du-hoco-du10-3a-1m-lightning-type-c.html" class="product-title product-title-override-1 ttl-60" title="Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)" >              Cáp sạc nhanh dây dù Hoco DU10 3A 1m (Lightning, Type-C)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-8800018036" id="old_price_update_8800018036">
+            
+                        
+
+        <!--old_price_update_8800018036--></span>
+        <span class="cm-reload-8800018036 ty-price-update" id="price_update_8800018036">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
+                            
+
+                        <!--price_update_8800018036--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8800018006" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18006][product_id]" value="18006" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/may-game-box-mini-pandora-3d-3913-tro-tich-hop-man-hinh-19-inch.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/may-game-box-mini-pandora-3d-3913-tro-tich-hop-man-hinh-19-inch__2_.jpg"  alt="Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 19 inch" title="Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 19 inch"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/may-game-box-mini-pandora-3d-3913-tro-tich-hop-man-hinh-19-inch.html" class="product-title product-title-override-1 ttl-60" title="Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 19 inch" >              Máy game box mini Pandora 3D 3913 trò tích hợp màn hình 1...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ty-grid-list__no-price">            <span class="cm-reload-8800018006" id="old_price_update_8800018006">
+            
+                        
+
+        <!--old_price_update_8800018006--></span>
+        <span class="cm-reload-8800018006 ty-price-update" id="price_update_8800018006">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                
+                   
+
+                                                             <span class="ty-no-price ct-price-text">Liên hệ : <a href="tel:19002667" style="    ">1900.2667</a></span>
+                                                            
+                    
+
+                            
+
+                        <!--price_update_8800018006--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8800017870" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17870][product_id]" value="17870" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t5-pro.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/tai-nghe-bluetooth-true-wireless-qcy-t5-pro-13.jpg"  alt="Tai nghe Bluetooth True Wireless QCY T5 Pro" title="Tai nghe Bluetooth True Wireless QCY T5 Pro"/>
+
+
+    </a>
+
+                    
+                    <div class="ty-product-labels ty-product-labels--bottom-left   cm-reload-8800017870" id="product_labels_update_8800017870">
+                                         
+    
+        
+    <div  class="ty-product-labels__item   ty-product-labels__item--discount">
+        <div class="ty-product-labels__content">- 8%</div>
     </div>
+
+
+        
+            <!--product_labels_update_8800017870--></div>
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t5-pro.html" class="product-title product-title-override-1 ttl-60" title="Tai nghe Bluetooth True Wireless QCY T5 Pro" >              Tai nghe Bluetooth True Wireless QCY T5 Pro
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8800017870" id="old_price_update_8800017870">
+            
+                            <span class="ty-list-price ty-nowrap" id="line_list_price_8800017870"><span class="ty-strike"><bdi><span id="sec_list_price_8800017870" class="ty-list-price ty-nowrap">650.000</span>&nbsp;<span class="ty-list-price ty-nowrap">Đ</span></bdi></span></span>
+                        
+
+        <!--old_price_update_8800017870--></span>
+        <span class="cm-reload-8800017870 ty-price-update" id="price_update_8800017870">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8800017870">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8800017870" class="ty-price-num">599.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8800017870--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8800017858" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17858][product_id]" value="17858" />
+<div class="ty-grid-list__image">
+
+
+        <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t4.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/16/tai-nghe-bluetooth-true-wireless-qcy-t4__1_.jpg"  alt="Tai nghe Bluetooth True Wireless QCY T4" title="Tai nghe Bluetooth True Wireless QCY T4"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/tai-nghe-bluetooth-true-wireless-qcy-t4.html" class="product-title product-title-override-1 ttl-60" title="Tai nghe Bluetooth True Wireless QCY T4" >              Tai nghe Bluetooth True Wireless QCY T4
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8800017858" id="old_price_update_8800017858">
+            
+                        
+
+        <!--old_price_update_8800017858--></span>
+        <span class="cm-reload-8800017858 ty-price-update" id="price_update_8800017858">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8800017858">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8800017858" class="ty-price-num">400.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8800017858--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8800017659" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17659][product_id]" value="17659" />
+        <div class="ty-grid-list__image">
+
+
+        <a href="http://chiemtaimobile.vn/adapter-chuyen-doi-1-thanh-2-cong-lightning-hoco-ls18.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/4/adapter-chuyen-doi-lightning-ls18-1.jpg"  alt="" title=""/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/adapter-chuyen-doi-1-thanh-2-cong-lightning-hoco-ls18.html" class="product-title product-title-override-1 ttl-60" title="Adapter chuyển đổi 1 thành 2 cổng lightning Hoco LS18" >              Adapter chuyển đổi 1 thành 2 cổng lightning Hoco LS18
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8800017659" id="old_price_update_8800017659">
+            
+                        
+
+        <!--old_price_update_8800017659--></span>
+        <span class="cm-reload-8800017659 ty-price-update" id="price_update_8800017659">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8800017659">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8800017659" class="ty-price-num">150.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8800017659--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div>    </div>
+
+    
+
+</div>
+    </div><div class="more-product ">
+        <div class="ty-wysiwyg-content"  data-ca-live-editor-object-id="0" data-ca-live-editor-object-type=""><a href="http://chiemtaimobile.vn/phu-kien-dien-thoai " class="btn btn-viewmore btn-viewmore-product ty-btn ty-btn__primary ">Xem tất cả</a></div>
+            </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-desktop hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    LINH KIỆN ĐIỆN THOẠI
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">
+    
+
+    
+    
+
+    
+    
+            
+    
+    
+    
+    
+    
+
+        <div class="grid-list">
+        <div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10400018037" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18037][product_id]" value="18037" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-realme-c3-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-full-oppo-a12-2020-chung-_2_-thumb_pw4b-75.jpg"  alt="Màn hình full Realme C3 (đen)" title="Màn hình full Realme C3 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-realme-c3-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full Realme C3 (đen)" >              Màn hình full Realme C3 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10400018037" id="old_price_update_10400018037">
+            
+                        
+
+        <!--old_price_update_10400018037--></span>
+        <span class="cm-reload-10400018037 ty-price-update" id="price_update_10400018037">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10400018037">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10400018037" class="ty-price-num">450.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10400018037--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10400018000" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18000][product_id]" value="18000" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/nap-lung-zin-new-samsung-galaxy-s20-plus-g985-den-xanh-duong-xanh-bien.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/nap-lung-zin-new-hang-g985-_2_-thumb.jpg"  alt="Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen, xanh, xanh da trời)" title="Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen, xanh, xanh da trời)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/nap-lung-zin-new-samsung-galaxy-s20-plus-g985-den-xanh-duong-xanh-bien.html" class="product-title product-title-override-1 ttl-60" title="Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen, xanh dương, xanh biển)" >              Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10400018000" id="old_price_update_10400018000">
+            
+                        
+
+        <!--old_price_update_10400018000--></span>
+        <span class="cm-reload-10400018000 ty-price-update" id="price_update_10400018000">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10400018000">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10400018000" class="ty-price-num">350.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10400018000--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10400017995" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17995][product_id]" value="17995" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c2-2020-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/ma-zin-new-nokia-c2-2020-_1_-thumb.jpg"  alt="Màn hình full zin new Nokia C2 2020 (đen)" title="Màn hình full zin new Nokia C2 2020 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c2-2020-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full zin new Nokia C2 2020 (đen)" >              Màn hình full zin new Nokia C2 2020 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10400017995" id="old_price_update_10400017995">
+            
+                        
+
+        <!--old_price_update_10400017995--></span>
+        <span class="cm-reload-10400017995 ty-price-update" id="price_update_10400017995">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10400017995">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10400017995" class="ty-price-num">550.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10400017995--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10400017994" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17994][product_id]" value="17994" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c1-2019-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-zin-new-nokia-c1-2019-_1_-thumb.jpg"  alt="Màn hình full zin new Nokia C1 2019 (đen)" title="Màn hình full zin new Nokia C1 2019 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c1-2019-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full zin new Nokia C1 2019 (đen)" >              Màn hình full zin new Nokia C1 2019 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10400017994" id="old_price_update_10400017994">
+            
+                        
+
+        <!--old_price_update_10400017994--></span>
+        <span class="cm-reload-10400017994 ty-price-update" id="price_update_10400017994">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10400017994">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10400017994" class="ty-price-num">450.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10400017994--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10400017993" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17993][product_id]" value="17993" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-huawei-nova-7i-2020-jny-l22b-jny-l21a-jny-l01a-jny-l21b-jny-l22a-jny-l02a-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-full-jny-l22b-_1_-thumb.jpg"  alt="" title=""/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-huawei-nova-7i-2020-jny-l22b-jny-l21a-jny-l01a-jny-l21b-jny-l22a-jny-l02a-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full Huawei Nova 7i 2020, JNY-L22B, JNY-L21A, JNY-L01A, JNY-L21B, JNY-L22A, JNY-L02A (đen)" >              Màn hình full Huawei Nova 7i 2020, JNY-L22B, JNY-L21A, JN...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10400017993" id="old_price_update_10400017993">
+            
+                        
+
+        <!--old_price_update_10400017993--></span>
+        <span class="cm-reload-10400017993 ty-price-update" id="price_update_10400017993">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10400017993">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10400017993" class="ty-price-num">500.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10400017993--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column2">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_10400017992" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17992][product_id]" value="17992" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-huawei-y7p-2020-art-l28-art-l29-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-full-art-l28-_1_-thumb.jpg"  alt="Màn hình full Huawei Y7p 2020, ART-L28, ART-L29 (đen)" title="Màn hình full Huawei Y7p 2020, ART-L28, ART-L29 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-huawei-y7p-2020-art-l28-art-l29-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full Huawei Y7p 2020, ART-L28, ART-L29 (đen)" >              Màn hình full Huawei Y7p 2020, ART-L28, ART-L29 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-10400017992" id="old_price_update_10400017992">
+            
+                        
+
+        <!--old_price_update_10400017992--></span>
+        <span class="cm-reload-10400017992 ty-price-update" id="price_update_10400017992">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_10400017992">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_10400017992" class="ty-price-num">550.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_10400017992--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div>    </div>
+
+    
+
+</div>
+    </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-phone hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    Linh Kiện Điện Thoại
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">
+    
+
+    
+    
+
+    
+    
+            
+    
+    
+    
+    
+    
+
+        <div class="grid-list">
+        <div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8200018037" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18037][product_id]" value="18037" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-realme-c3-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-full-oppo-a12-2020-chung-_2_-thumb_pw4b-75.jpg"  alt="Màn hình full Realme C3 (đen)" title="Màn hình full Realme C3 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-realme-c3-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full Realme C3 (đen)" >              Màn hình full Realme C3 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8200018037" id="old_price_update_8200018037">
+            
+                        
+
+        <!--old_price_update_8200018037--></span>
+        <span class="cm-reload-8200018037 ty-price-update" id="price_update_8200018037">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8200018037">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8200018037" class="ty-price-num">450.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8200018037--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8200018000" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[18000][product_id]" value="18000" />
+        <div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/nap-lung-zin-new-samsung-galaxy-s20-plus-g985-den-xanh-duong-xanh-bien.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/nap-lung-zin-new-hang-g985-_2_-thumb.jpg"  alt="Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen, xanh, xanh da trời)" title="Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen, xanh, xanh da trời)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/nap-lung-zin-new-samsung-galaxy-s20-plus-g985-den-xanh-duong-xanh-bien.html" class="product-title product-title-override-1 ttl-60" title="Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen, xanh dương, xanh biển)" >              Nắp lưng zin new Samsung Galaxy S20+, S20 Plus, G985 (đen...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8200018000" id="old_price_update_8200018000">
+            
+                        
+
+        <!--old_price_update_8200018000--></span>
+        <span class="cm-reload-8200018000 ty-price-update" id="price_update_8200018000">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8200018000">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8200018000" class="ty-price-num">350.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8200018000--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8200017995" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17995][product_id]" value="17995" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c2-2020-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/ma-zin-new-nokia-c2-2020-_1_-thumb.jpg"  alt="Màn hình full zin new Nokia C2 2020 (đen)" title="Màn hình full zin new Nokia C2 2020 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c2-2020-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full zin new Nokia C2 2020 (đen)" >              Màn hình full zin new Nokia C2 2020 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8200017995" id="old_price_update_8200017995">
+            
+                        
+
+        <!--old_price_update_8200017995--></span>
+        <span class="cm-reload-8200017995 ty-price-update" id="price_update_8200017995">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8200017995">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8200017995" class="ty-price-num">550.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8200017995--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8200017994" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17994][product_id]" value="17994" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c1-2019-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-zin-new-nokia-c1-2019-_1_-thumb.jpg"  alt="Màn hình full zin new Nokia C1 2019 (đen)" title="Màn hình full zin new Nokia C1 2019 (đen)"/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-zin-new-nokia-c1-2019-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full zin new Nokia C1 2019 (đen)" >              Màn hình full zin new Nokia C1 2019 (đen)
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8200017994" id="old_price_update_8200017994">
+            
+                        
+
+        <!--old_price_update_8200017994--></span>
+        <span class="cm-reload-8200017994 ty-price-update" id="price_update_8200017994">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8200017994">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8200017994" class="ty-price-num">450.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8200017994--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div><div class="ty-column5">
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<div class="ty-grid-list__item ty-quick-view-button__wrapper ty-grid-list__item--overlay"><form action="http://chiemtaimobile.vn/" method="post" name="product_form_8200017993" enctype="multipart/form-data" class="cm-disable-empty-files  cm-ajax cm-ajax-full-render cm-ajax-status-middle ">
+<input type="hidden" name="result_ids" value="cart_status*,wish_list*,checkout*,account_info*" />
+<input type="hidden" name="redirect_url" value="index.php" />
+<input type="hidden" name="product_data[17993][product_id]" value="17993" />
+<div class="ty-grid-list__image"><span class="new-sticky">NEW</span>
+
+
+        <a href="http://chiemtaimobile.vn/man-hinh-full-huawei-nova-7i-2020-jny-l22b-jny-l21a-jny-l01a-jny-l21b-jny-l22a-jny-l02a-den.html">
+        <img class="ty-pict     cm-image"   src="http://chiemtaimobile.vn/images/thumbnails/235/235/detailed/19/man-full-jny-l22b-_1_-thumb.jpg"  alt="" title=""/>
+
+
+    </a>
+
+                    
+            </div><div class="ty-grid-list__item-name"><bdi>    <a href="http://chiemtaimobile.vn/man-hinh-full-huawei-nova-7i-2020-jny-l22b-jny-l21a-jny-l01a-jny-l21b-jny-l22a-jny-l02a-den.html" class="product-title product-title-override-1 ttl-60" title="Màn hình full Huawei Nova 7i 2020, JNY-L22B, JNY-L21A, JNY-L01A, JNY-L21B, JNY-L22A, JNY-L02A (đen)" >              Màn hình full Huawei Nova 7i 2020, JNY-L22B, JNY-L21A, JN...
+          </a>
+</bdi></div><div class="grid-list__rating">    
+    
+
+</div><div class="ty-grid-list__price ">            <span class="cm-reload-8200017993" id="old_price_update_8200017993">
+            
+                        
+
+        <!--old_price_update_8200017993--></span>
+        <span class="cm-reload-8200017993 ty-price-update" id="price_update_8200017993">
+        <input type="hidden" name="appearance[show_price_values]" value="1" />
+        <input type="hidden" name="appearance[show_price]" value="1" />
+                                
+                                    <span class="ty-price" id="line_discounted_price_8200017993">
+                      
+                      
+                                              <bdi><span id="sec_discounted_price_8200017993" class="ty-price-num">500.000</span>&nbsp;<span class="ty-price-num">Đ</span></bdi>
+                                        </span>
+                            
+
+                        <!--price_update_8200017993--></span>
+        </div>
+<input type="hidden" name="security_hash" class="cm-no-hide-input" value="d9c99fbc26df99cc4f380a6819d41d84" /></form>
+</div></div>    </div>
+
+    
+
+</div>
+    </div><div class="more-product ">
+        <div class="ty-wysiwyg-content"  data-ca-live-editor-object-id="0" data-ca-live-editor-object-type=""><a href="http://chiemtaimobile.vn/linh-kien-dien-thoai" class="btn btn-viewmore btn-viewmore-product ty-btn ty-btn__primary ">Xem Tất cả</a></div>
+            </div>
                             </div>
         </div>                                        
-    
+                                        
+                                        
+            <div class="row-fluid">                        <div class="span16  " >
+                                    <div class="ty-mainbox-simple-container clearfix mt40 hidden-desktop hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    TIN MỚI
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">                    
+        
+        
+    <div class="blog tk-blog-list-sidebox tk-blog-grid-list">
+        <div class="ty-column2 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-gay-quy-bang-ve-lcd-16-inch-phien-ban-mau-kich-thuoc-lon-hon-kha-nang-cam-nhan-luc-tay/"><img class="ty-pict     cm-image" id="det_img_1673022834"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/detailed/19/thumblcd.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-gay-quy-bang-ve-lcd-16-inch-phien-ban-mau-kich-thuoc-lon-hon-kha-nang-cam-nhan-luc-tay/">Xiaomi gây quỹ bảng vẽ LCD 16 inch phiên bản...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Gần đây, Xiaomi đã cho ra mắt thêm một phiên bản mới là Bản vẽ LCD 16 inch phiên bản màu, sản phẩm có kích thước lớn hơn cùng với cải tiến nhiều chức năng.</p>
+</div></div></div><div class="ty-column2 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-ra-mat-chuot-khong-day-tich-hop-mirco-ho-tro-dieu-khien-giong-noi.-gia-gay-quy-424.000-vnd/"><img class="ty-pict     cm-image" id="det_img_1019786008"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/detailed/19/thumbchuot.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-ra-mat-chuot-khong-day-tich-hop-mirco-ho-tro-dieu-khien-giong-noi.-gia-gay-quy-424.000-vnd/">Xiaomi ra mắt chuột không dây, tích hợp mirco,...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Xiaomi đã cho ra mắt một sản phẩm mới&nbsp;là một chiếc chuột không dây có khả năng điều khiển bằng giọng nói nhờ trợ lý ảo XiaoAI có tên là chuột không dây tích hợp điều khiển bằng giọng nói Xiaomi.</p>
+</div></div></div><div class="ty-column2 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/giai-nhiet-mua-he-mua-sam-khoe-re-giam-gia-len-den-30-mua-hang-chi-tu-19-ngan/"><img class="ty-pict     cm-image" id="det_img_2019479455"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/posts/19/thumbnail_final.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/giai-nhiet-mua-he-mua-sam-khoe-re-giam-gia-len-den-30-mua-hang-chi-tu-19-ngan/">Giải nhiệt mùa hè, mua sắm khỏe re: Giảm giá...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Chiếm Tài Mobile xin trân trọng thông báo đến quý khách hàng chương trình khuyến mãi “Giải nhiệt mùa hè, mua sắm khỏe re” với nhiều ưu đãi hấp dẫn: giảm giá lên đến 30%, mua hàng chỉ từ 19K.</p>
+
+<ul>
+</ul>
+</div></div></div><div class="ty-column2 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/camera-giam-sat-ngoai-troi-xiaovv-ra-mat-goc-quay-rong-tich-hop-mirco-chong-nuoc-ip65/"><img class="ty-pict     cm-image" id="det_img_2075382598"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/posts/19/thumbxiaovv.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/camera-giam-sat-ngoai-troi-xiaovv-ra-mat-goc-quay-rong-tich-hop-mirco-chong-nuoc-ip65/">Camera giám sát ngoài trời Xiaovv ra mắt: góc...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Camera giám sát ngoài trời Xiaovv được trang bị cảm biến CMOS có độ phân giải 2 MP cùng với độ phân giải Full HD để cho chất lượng hình ảnh được rõ nét nhất. Có góc quay rộng&nbsp;150° cùng khả năng xoay ngang 270° và xoay dọc 90°.</p>
+</div></div></div>    </div>
+   </div>
+    </div><div class="ty-mainbox-simple-container clearfix mt40 hidden-phone hidden-tablet">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                
+                                    Tin mới
+                                
+
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">                    
+        
+        
+    <div class="blog tk-blog-list-sidebox tk-blog-grid-list">
+        <div class="ty-column5 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-gay-quy-bang-ve-lcd-16-inch-phien-ban-mau-kich-thuoc-lon-hon-kha-nang-cam-nhan-luc-tay/"><img class="ty-pict     cm-image" id="det_img_938151368"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/detailed/19/thumblcd.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-gay-quy-bang-ve-lcd-16-inch-phien-ban-mau-kich-thuoc-lon-hon-kha-nang-cam-nhan-luc-tay/">Xiaomi gây quỹ bảng vẽ LCD 16 inch phiên bản...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Gần đây, Xiaomi đã cho ra mắt thêm một phiên bản mới là Bản vẽ LCD 16 inch phiên bản màu, sản phẩm có kích thước lớn hơn cùng với cải tiến nhiều chức năng.</p>
+</div></div></div><div class="ty-column5 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-ra-mat-chuot-khong-day-tich-hop-mirco-ho-tro-dieu-khien-giong-noi.-gia-gay-quy-424.000-vnd/"><img class="ty-pict     cm-image" id="det_img_495386125"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/detailed/19/thumbchuot.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-ra-mat-chuot-khong-day-tich-hop-mirco-ho-tro-dieu-khien-giong-noi.-gia-gay-quy-424.000-vnd/">Xiaomi ra mắt chuột không dây, tích hợp mirco,...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Xiaomi đã cho ra mắt một sản phẩm mới&nbsp;là một chiếc chuột không dây có khả năng điều khiển bằng giọng nói nhờ trợ lý ảo XiaoAI có tên là chuột không dây tích hợp điều khiển bằng giọng nói Xiaomi.</p>
+</div></div></div><div class="ty-column5 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/giai-nhiet-mua-he-mua-sam-khoe-re-giam-gia-len-den-30-mua-hang-chi-tu-19-ngan/"><img class="ty-pict     cm-image" id="det_img_423343128"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/posts/19/thumbnail_final.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/giai-nhiet-mua-he-mua-sam-khoe-re-giam-gia-len-den-30-mua-hang-chi-tu-19-ngan/">Giải nhiệt mùa hè, mua sắm khỏe re: Giảm giá...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Chiếm Tài Mobile xin trân trọng thông báo đến quý khách hàng chương trình khuyến mãi “Giải nhiệt mùa hè, mua sắm khỏe re” với nhiều ưu đãi hấp dẫn: giảm giá lên đến 30%, mua hàng chỉ từ 19K.</p>
+
+<ul>
+</ul>
+</div></div></div><div class="ty-column5 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/camera-giam-sat-ngoai-troi-xiaovv-ra-mat-goc-quay-rong-tich-hop-mirco-chong-nuoc-ip65/"><img class="ty-pict     cm-image" id="det_img_536466169"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/posts/19/thumbxiaovv.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/camera-giam-sat-ngoai-troi-xiaovv-ra-mat-goc-quay-rong-tich-hop-mirco-chong-nuoc-ip65/">Camera giám sát ngoài trời Xiaovv ra mắt: góc...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Camera giám sát ngoài trời Xiaovv được trang bị cảm biến CMOS có độ phân giải 2 MP cùng với độ phân giải Full HD để cho chất lượng hình ảnh được rõ nét nhất. Có góc quay rộng&nbsp;150° cùng khả năng xoay ngang 270° và xoay dọc 90°.</p>
+</div></div></div><div class="ty-column5 blog-side-block"><div class="ty-grid-list__item"><div class="blog-image-side"><a href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-ra-mat-bo-pc-mini-voi-kich-thuoc-nho-gon-cau-hinh-vua-du-day-du-cong-ket-noi.-gia-khoang-4.9-trieu-dong/"><img class="ty-pict     cm-image" id="det_img_644353993"  src="http://chiemtaimobile.vn/images/thumbnails/300/214/posts/19/cputhumb.jpg"  alt="" title=""/>
+
+</a></div><div class="clear-both"></div><div class="blog-grid-name  ty-center"><a class="blog-title-block" href="http://chiemtaimobile.vn/tin-cong-nghe/xiaomi-ra-mat-bo-pc-mini-voi-kich-thuoc-nho-gon-cau-hinh-vua-du-day-du-cong-ket-noi.-gia-khoang-4.9-trieu-dong/">Xiaomi ra mắt bộ PC mini với kích thước nhỏ...</a></div><div class="blog-description-side ty-wysiwyg-content"><p>Xiaomi đã cho ra mắt một case mini với kích thước nhỏ gọn, đầy đủ tính năng. Sản phẩm có tên là Ningmei CR100 Mini Desktop CPU, với kích thước nhỏ gọn người dùng có thể thoải mái mang đi công tác, đi làm, đi du lịch.</p>
+</div></div></div>    </div>
+   </div>
+    </div><div class="ty-mainbox-simple-container clearfix mt40">
+                    <div class="ty-mainbox-simple-title-wrap"><h2 class="ty-mainbox-simple-title">
+                                <a href="http://chiemtaimobile.vn/hinh-anh-cong-ty/" title="">
+                                
+                                    Hình ảnh công ty
+                                
+
+                                </a>
+                            </h2></div>
+                <div class="ty-mainbox-simple-body">
+
+
+<div id="taki_scroll_list_100" class="owl-carousel ty-scroller-list"></div>
+
+<!-- Inline script moved to the bottom of the page -->
+
+
+
+</div>
+    </div>
+                            </div>
+        </div>    
 </div>
 </div>
 
@@ -2893,7 +5900,7 @@ Ngoài ra, cốc sạc Anker QC 3.0 A2013 còn rất tiết kiệm nặng lượ
         default_language: 'vi',
         cart_prices_w_taxes: false,
         regexp: [],
-        current_url: 'http://chiemtaimobile.vn/coc-sac-nhanh-qc-3.0-anker-a2013-iq-powerport-1-cong-18w-chinh-hang.html',
+        current_url: 'http://chiemtaimobile.vn/',
         current_host: 'chiemtaimobile.vn',
         init_context: '',
         phone_validation_mode: 'any_symbols'
@@ -3001,88 +6008,131 @@ var ajax ;
 
 
 <!-- Inline scripts -->
-<script type="text/javascript" src="http://chiemtaimobile.vn/js/tygh/exceptions.js?ver=1593277749" ></script>
-<script type="text/javascript" src="http://chiemtaimobile.vn/js/tygh/previewers/owl.previewer.js?ver=1593277749" ></script>
-<script type="text/javascript" src="http://chiemtaimobile.vn/js/tygh/product_image_gallery.js?ver=1593277749" ></script>
-<script type="text/javascript" src="http://chiemtaimobile.vn/js/tygh/tabs.js?ver=1593277749" ></script>
 <script type="text/javascript">
 (function(_, $) {
-    $.ceEvent('on', 'ce.formpre_product_form_15481', function(frm, elm) {
-        if ($('#warning_15481').length) {
-            $.ceNotification('show', {
-                type: 'W', 
-                title: _.tr('warning'), 
-                message: _.tr('cannot_buy')
-            });
-
-            return false;
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var slider = context.find('#banner_slider_311');
+        if (slider.length) {
+            slider.owlCarousel({
+                direction: 'ltr',
+                items: 1,
+                singleItem : true,
+                slideSpeed: 400,
+                autoPlay: '4000',
+                stopOnHover: true,
+                                                    pagination: true
+                                                            });
         }
-            
-        return true;
     });
 }(Tygh, Tygh.$));
 </script>
-<script>
-(function (_, $) {
-/***********
-  $(window).load(function(){
-    var p_l = $(".ja-pro-left").height();
-    var p_r = $(".ja-pro-right").height();
-    if(p_r > 300 && p_l>p_r){
-      $("#content_description").height(p_r- 110).addClass("mask-content");
-      $html = '<p class="show-more"><a href="javascript:void(0);" class="read-more">Đọc thêm  <i class="fa fa-caret-down"></i></a></p>';
-      $("#content_description").after($html);
-    }
-    $(".ja-pro-left .show-more a").click(function(){
-      $(".ja-pro-left .show-more").remove();
-      $("#content_description").removeAttr("style").removeClass("mask-content");
+<script type="text/javascript" src="http://chiemtaimobile.vn/js/tygh/product_image_gallery.js?ver=1593277749" ></script><script type="text/javascript" src="http://chiemtaimobile.vn/js/lib/owlcarousel/owl.carousel.min.js?ver=1593277749" ></script><script type="text/javascript">
+(function(_, $) {
+    $.ceEvent('on', 'ce.commoninit', function(context) {
+        var elm = context.find('#scroll_list_81');
+
+        $('.ty-float-left:contains(.ty-scroller-list),.ty-float-right:contains(.ty-scroller-list)').css('width', '100%');
+
+        var item = 5,
+            // default setting of carousel
+            itemsDesktop = 4,
+            itemsDesktopSmall = 3;
+            itemsTablet = 2;
+
+        if (item > 3) {
+            itemsDesktop = item;
+            itemsDesktopSmall = item - 1;
+            itemsTablet = item - 2;
+        } else if (item == 1) {
+            itemsDesktop = itemsDesktopSmall = itemsTablet = 1;
+        } else {
+            itemsDesktop = item;
+            itemsDesktopSmall = itemsTablet = item - 1;
+        }
+
+        var desktop = [1199, itemsDesktop],
+            desktopSmall = [979, itemsDesktopSmall],
+            tablet = [768, itemsTablet],
+            mobile = [479, 2];
+
+        
+        if (elm.length) {
+            elm.owlCarousel({
+                direction: 'ltr',
+                items: item,
+                itemsDesktop: desktop,
+                itemsDesktopSmall: desktopSmall,
+                itemsTablet: tablet,
+                itemsMobile: mobile,
+                                scrollPerPage: true,
+                                                autoPlay: '5000',
+                                lazyLoad: true,
+                slideSpeed: 500,
+                stopOnHover: true,
+                                navigation: true,
+                navigationText: ['', ''],
+                                pagination: false,
+                        });
+            
+        }
     });
-  });
-  **************/
-  
-  
-  
-  
-  var h = $(".sub-grid-list-home").eq(0).outerHeight(true);
-  var _b = $(".ty-product-block__tinh_nang").outerHeight(true);
-  var _c = $(".sub-grid-list-home").eq(0).offset().top - _b;
+}(Tygh, Tygh.$));
+</script>
+<script type="text/javascript" src="http://chiemtaimobile.vn/js/tygh/exceptions.js?ver=1593277749" ></script>
+<script type="text/javascript">
 
-
-  $(window).scroll(function() {
-    
-   
-    var scrollButtom = $( document ).height()-($(window).scrollTop() + $(window).height());
-    
-    if (scrollButtom >= h) {
-      $(".ty-product-block__tinh_nang").removeClass("show-s");
-    }
-
-  
-    if (scrollButtom < h) {
-      $(".ty-product-block__tinh_nang").removeClass("show-s");
-    }
-    
-    
-   
-    if($(window).scrollTop()>_b){
-     
-      $(".ty-product-block__tinh_nang").addClass("show-s");
-    }
-
-    if ($(window).scrollTop() <= h) {
-      $(".ty-product-block__tinh_nang").removeClass("show-s");
-    }
-    
-    if ($(window).scrollTop() > _c) {
-      $(".ty-product-block__tinh_nang").removeClass("show-s");
-    }
-    
-    /*console.log($(window).scrollTop() + "-"+ _c);*/
-    
-  });
-
-
-})(Tygh, Tygh.$);
+    (function(_, $) {
+        
+		
+		
+		$flick_con = $('#taki_scroll_list_100');
+		var ajax_data;
+		
+		$url = 'http://chiemtaimobile.vn/index.php?dispatch=taki_flickr.get_photo';
+		$.ajax({
+			url:$url,
+			type:'get',
+			dataType:'json',
+			//processData: true,
+			cache: false,
+			data:{
+				per_page : 15,
+				user_id : '146790080@N04',
+				photoset_id : '72157714004964413'
+			},
+			success:function(data){
+				$flick_con.html(data.html );
+				
+				
+		
+				
+				var elm = $('#taki_scroll_list_100');
+				 $flick_con.owlCarousel({
+					direction: 'ltr',
+					items: 2,
+          /*
+					itemsDesktop: 2,
+					itemsDesktopSmall: 2,*/
+					itemsTablet: [768, 3],
+					itemsMobile: [479, 2],
+															autoPlay: '3000',
+										lazyLoad: true,
+					slideSpeed: 400,
+					stopOnHover: true,
+										navigation: true,
+					navigationText: ['', ''],
+										pagination: false,
+								});
+				
+				
+			
+				
+								
+			}
+		});
+		
+		
+    }(Tygh, Tygh.$));
 </script>
 <script>
 $(document).ready(function(){
